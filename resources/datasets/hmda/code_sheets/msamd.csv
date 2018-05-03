@@ -9,6 +9,7 @@ year,code,name
 2014,10180,Abilene - TX
 2015,10180,Abilene - TX
 2016,10180,Abilene - TX
+2017,10180,Abilene - TX
 2007,10380,"Aguadilla, Isabela, San Sebastian - PR"
 2008,10380,"Aguadilla, Isabela, San Sebastian - PR"
 2009,10380,"Aguadilla, Isabela, San Sebastian - PR"
@@ -19,6 +20,7 @@ year,code,name
 2014,10380,"Aguadilla, Isabela - PR"
 2015,10380,"Aguadilla, Isabela - PR"
 2016,10380,"Aguadilla, Isabela - PR"
+2017,10380,Aguadilla-Isabela - PR
 2007,10420,Akron - OH
 2008,10420,Akron - OH
 2009,10420,Akron - OH
@@ -29,6 +31,7 @@ year,code,name
 2014,10420,Akron - OH
 2015,10420,Akron - OH
 2016,10420,Akron - OH
+2017,10420,Akron - OH
 2007,10500,Albany - GA
 2008,10500,Albany - GA
 2009,10500,Albany - GA
@@ -39,9 +42,11 @@ year,code,name
 2014,10500,Albany - GA
 2015,10500,Albany - GA
 2016,10500,Albany - GA
+2017,10500,Albany - GA
 2014,10540,Albany - OR
 2015,10540,Albany - OR
 2016,10540,Albany - OR
+2017,10540,Albany - OR
 2007,10580,"Albany, Schenectady, Troy - NY"
 2008,10580,"Albany, Schenectady, Troy - NY"
 2009,10580,"Albany, Schenectady, Troy - NY"
@@ -52,6 +57,7 @@ year,code,name
 2014,10580,"Albany, Schenectady, Troy - NY"
 2015,10580,"Albany, Schenectady, Troy - NY"
 2016,10580,"Albany, Schenectady, Troy - NY"
+2017,10580,Albany-Schenectady-Troy - NY
 2007,10740,Albuquerque - NM
 2008,10740,Albuquerque - NM
 2009,10740,Albuquerque - NM
@@ -62,6 +68,7 @@ year,code,name
 2014,10740,Albuquerque - NM
 2015,10740,Albuquerque - NM
 2016,10740,Albuquerque - NM
+2017,10740,Albuquerque - NM
 2007,10780,Alexandria - LA
 2008,10780,Alexandria - LA
 2009,10780,Alexandria - LA
@@ -72,6 +79,7 @@ year,code,name
 2014,10780,Alexandria - LA
 2015,10780,Alexandria - LA
 2016,10780,Alexandria - LA
+2017,10780,Alexandria - LA
 2007,10900,"Allentown, Bethlehem, Easton - PA, NJ"
 2008,10900,"Allentown, Bethlehem, Easton - PA, NJ"
 2009,10900,"Allentown, Bethlehem, Easton - PA, NJ"
@@ -82,6 +90,7 @@ year,code,name
 2014,10900,"Allentown, Bethlehem, Easton - PA, NJ"
 2015,10900,"Allentown, Bethlehem, Easton - PA, NJ"
 2016,10900,"Allentown, Bethlehem, Easton - PA, NJ"
+2017,10900,"Allentown-Bethlehem-Easton - PA, NJ"
 2007,11020,Altoona - PA
 2008,11020,Altoona - PA
 2009,11020,Altoona - PA
@@ -92,6 +101,7 @@ year,code,name
 2014,11020,Altoona - PA
 2015,11020,Altoona - PA
 2016,11020,Altoona - PA
+2017,11020,Altoona - PA
 2007,11100,Amarillo - TX
 2008,11100,Amarillo - TX
 2009,11100,Amarillo - TX
@@ -102,6 +112,7 @@ year,code,name
 2014,11100,Amarillo - TX
 2015,11100,Amarillo - TX
 2016,11100,Amarillo - TX
+2017,11100,Amarillo - TX
 2007,11180,Ames - IA
 2008,11180,Ames - IA
 2009,11180,Ames - IA
@@ -112,6 +123,7 @@ year,code,name
 2014,11180,Ames - IA
 2015,11180,Ames - IA
 2016,11180,Ames - IA
+2017,11180,Ames - IA
 2014,11244,"Anaheim, Santa Ana, Irvine - CA"
 2015,11244,"Anaheim, Santa Ana, Irvine - CA"
 2016,11244,"Anaheim, Santa Ana, Irvine - CA"
@@ -125,6 +137,7 @@ year,code,name
 2014,11260,Anchorage - AK
 2015,11260,Anchorage - AK
 2016,11260,Anchorage - AK
+2017,11260,Anchorage - AK
 2007,11300,Anderson - IN
 2008,11300,Anderson - IN
 2009,11300,Anderson - IN
@@ -149,6 +162,7 @@ year,code,name
 2014,11460,Ann Arbor - MI
 2015,11460,Ann Arbor - MI
 2016,11460,Ann Arbor - MI
+2017,11460,Ann Arbor - MI
 2007,11500,"Anniston, Oxford - AL"
 2008,11500,"Anniston, Oxford - AL"
 2009,11500,"Anniston, Oxford - AL"
@@ -159,6 +173,7 @@ year,code,name
 2014,11500,"Anniston, Oxford, Jacksonville - AL"
 2015,11500,"Anniston, Oxford, Jacksonville - AL"
 2016,11500,"Anniston, Oxford, Jacksonville - AL"
+2017,11500,Anniston-Oxford-Jacksonville - AL
 2007,11540,Appleton - WI
 2008,11540,Appleton - WI
 2009,11540,Appleton - WI
@@ -169,9 +184,11 @@ year,code,name
 2014,11540,Appleton - WI
 2015,11540,Appleton - WI
 2016,11540,Appleton - WI
+2017,11540,Appleton - WI
 2014,11640,Arecibo - PR
 2015,11640,Arecibo - PR
 2016,11640,Arecibo - PR
+2017,11640,Arecibo - PR
 2007,11700,Asheville - NC
 2008,11700,Asheville - NC
 2009,11700,Asheville - NC
@@ -182,6 +199,7 @@ year,code,name
 2014,11700,Asheville - NC
 2015,11700,Asheville - NC
 2016,11700,Asheville - NC
+2017,11700,Asheville - NC
 2007,12020,"Athens, Clarke County - GA"
 2008,12020,"Athens, Clarke County - GA"
 2009,12020,"Athens, Clarke County - GA"
@@ -192,6 +210,7 @@ year,code,name
 2014,12020,"Athens, Clarke County - GA"
 2015,12020,"Athens, Clarke County - GA"
 2016,12020,"Athens, Clarke County - GA"
+2017,12020,Athens-Clarke County - GA
 2007,12060,"Atlanta, Sandy Springs, Marietta - GA"
 2008,12060,"Atlanta, Sandy Springs, Marietta - GA"
 2009,12060,"Atlanta, Sandy Springs, Marietta - GA"
@@ -202,6 +221,7 @@ year,code,name
 2014,12060,"Atlanta, Sandy Springs, Roswell - GA"
 2015,12060,"Atlanta, Sandy Springs, Roswell - GA"
 2016,12060,"Atlanta, Sandy Springs, Roswell - GA"
+2017,12060,Atlanta-Sandy Springs-Roswell - GA
 2007,12100,Atlantic City - NJ
 2008,12100,"Atlantic City, Hammonton - NJ"
 2009,12100,"Atlantic City, Hammonton - NJ"
@@ -212,6 +232,7 @@ year,code,name
 2014,12100,"Atlantic City, Hammonton - NJ"
 2015,12100,"Atlantic City, Hammonton - NJ"
 2016,12100,"Atlantic City, Hammonton - NJ"
+2017,12100,Atlantic City-Hammonton - NJ
 2007,12220,"Auburn, Opelika - AL"
 2008,12220,"Auburn, Opelika - AL"
 2009,12220,"Auburn, Opelika - AL"
@@ -222,6 +243,7 @@ year,code,name
 2014,12220,"Auburn, Opelika - AL"
 2015,12220,"Auburn, Opelika - AL"
 2016,12220,"Auburn, Opelika - AL"
+2017,12220,Auburn-Opelika - AL
 2007,12260,"Augusta, Richmond County - GA, SC"
 2008,12260,"Augusta, Richmond County - GA, SC"
 2009,12260,"Augusta, Richmond County - GA, SC"
@@ -232,6 +254,7 @@ year,code,name
 2014,12260,"Augusta, Richmond County - GA, SC"
 2015,12260,"Augusta, Richmond County - GA, SC"
 2016,12260,"Augusta, Richmond County - GA, SC"
+2017,12260,"Augusta-Richmond County - GA, SC"
 2007,12420,"Austin, Round Rock - TX"
 2008,12420,"Austin, Round Rock - TX"
 2009,12420,"Austin, Round Rock - TX"
@@ -242,6 +265,7 @@ year,code,name
 2014,12420,"Austin, Round Rock - TX"
 2015,12420,"Austin, Round Rock - TX"
 2016,12420,"Austin, Round Rock - TX"
+2017,12420,Austin-Round Rock - TX
 2007,12540,Bakersfield - CA
 2008,12540,Bakersfield - CA
 2009,12540,Bakersfield - CA
@@ -252,6 +276,7 @@ year,code,name
 2014,12540,Bakersfield - CA
 2015,12540,Bakersfield - CA
 2016,12540,Bakersfield - CA
+2017,12540,Bakersfield - CA
 2007,12580,"Baltimore, Towson - MD"
 2008,12580,"Baltimore, Towson - MD"
 2009,12580,"Baltimore, Towson - MD"
@@ -262,6 +287,7 @@ year,code,name
 2014,12580,"Baltimore, Columbia, Towson - MD"
 2015,12580,"Baltimore, Columbia, Towson - MD"
 2016,12580,"Baltimore, Columbia, Towson - MD"
+2017,12580,Baltimore-Columbia-Towson - MD
 2007,12620,Bangor - ME
 2008,12620,Bangor - ME
 2009,12620,Bangor - ME
@@ -272,6 +298,7 @@ year,code,name
 2014,12620,Bangor - ME
 2015,12620,Bangor - ME
 2016,12620,Bangor - ME
+2017,12620,Bangor - ME
 2007,12700,Barnstable Town - MA
 2008,12700,Barnstable Town - MA
 2009,12700,Barnstable Town - MA
@@ -282,6 +309,7 @@ year,code,name
 2014,12700,Barnstable Town - MA
 2015,12700,Barnstable Town - MA
 2016,12700,Barnstable Town - MA
+2017,12700,Barnstable Town - MA
 2007,12940,Baton Rouge - LA
 2008,12940,Baton Rouge - LA
 2009,12940,Baton Rouge - LA
@@ -292,6 +320,7 @@ year,code,name
 2014,12940,Baton Rouge - LA
 2015,12940,Baton Rouge - LA
 2016,12940,Baton Rouge - LA
+2017,12940,Baton Rouge - LA
 2007,12980,Battle Creek - MI
 2008,12980,Battle Creek - MI
 2009,12980,Battle Creek - MI
@@ -302,6 +331,7 @@ year,code,name
 2014,12980,Battle Creek - MI
 2015,12980,Battle Creek - MI
 2016,12980,Battle Creek - MI
+2017,12980,Battle Creek - MI
 2007,13020,Bay City - MI
 2008,13020,Bay City - MI
 2009,13020,Bay City - MI
@@ -312,6 +342,7 @@ year,code,name
 2014,13020,Bay City - MI
 2015,13020,Bay City - MI
 2016,13020,Bay City - MI
+2017,13020,Bay City - MI
 2007,13140,"Beaumont, Port Arthur - TX"
 2008,13140,"Beaumont, Port Arthur - TX"
 2009,13140,"Beaumont, Port Arthur - TX"
@@ -322,9 +353,11 @@ year,code,name
 2014,13140,"Beaumont, Port Arthur - TX"
 2015,13140,"Beaumont, Port Arthur - TX"
 2016,13140,"Beaumont, Port Arthur - TX"
+2017,13140,Beaumont-Port Arthur - TX
 2014,13220,Beckley - WV
 2015,13220,Beckley - WV
 2016,13220,Beckley - WV
+2017,13220,Beckley - WV
 2007,13380,Bellingham - WA
 2008,13380,Bellingham - WA
 2009,13380,Bellingham - WA
@@ -335,6 +368,7 @@ year,code,name
 2014,13380,Bellingham - WA
 2015,13380,Bellingham - WA
 2016,13380,Bellingham - WA
+2017,13380,Bellingham - WA
 2007,13460,Bend - OR
 2008,13460,Bend - OR
 2009,13460,Bend - OR
@@ -345,6 +379,7 @@ year,code,name
 2014,13460,"Bend, Redmond - OR"
 2015,13460,"Bend, Redmond - OR"
 2016,13460,"Bend, Redmond - OR"
+2017,13460,Bend-Redmond - OR
 2007,13644,"Bethesda, Gaithersburg, Frederick - MD"
 2008,13644,"Bethesda, Frederick, Gaithersburg - MD"
 2009,13644,"Bethesda, Frederick, Rockville - MD"
@@ -362,6 +397,7 @@ year,code,name
 2014,13740,Billings - MT
 2015,13740,Billings - MT
 2016,13740,Billings - MT
+2017,13740,Billings - MT
 2007,13780,Binghamton - NY
 2008,13780,Binghamton - NY
 2009,13780,Binghamton - NY
@@ -372,6 +408,7 @@ year,code,name
 2014,13780,Binghamton - NY
 2015,13780,Binghamton - NY
 2016,13780,Binghamton - NY
+2017,13780,Binghamton - NY
 2007,13820,"Birmingham, Hoover - AL"
 2008,13820,"Birmingham, Hoover - AL"
 2009,13820,"Birmingham, Hoover - AL"
@@ -382,6 +419,7 @@ year,code,name
 2014,13820,"Birmingham, Hoover - AL"
 2015,13820,"Birmingham, Hoover - AL"
 2016,13820,"Birmingham, Hoover - AL"
+2017,13820,Birmingham-Hoover - AL
 2007,13900,Bismarck - ND
 2008,13900,Bismarck - ND
 2009,13900,Bismarck - ND
@@ -392,6 +430,7 @@ year,code,name
 2014,13900,Bismarck - ND
 2015,13900,Bismarck - ND
 2016,13900,Bismarck - ND
+2017,13900,Bismarck - ND
 2007,13980,"Blacksburg, Christiansburg, Radford - VA"
 2008,13980,"Blacksburg, Christiansburg, Radford - VA"
 2009,13980,"Blacksburg, Christiansburg, Radford - VA"
@@ -402,9 +441,11 @@ year,code,name
 2014,13980,"Blacksburg, Christiansburg, Radford - VA"
 2015,13980,"Blacksburg, Christiansburg, Radford - VA"
 2016,13980,"Blacksburg, Christiansburg, Radford - VA"
+2017,13980,Blacksburg-Christiansburg-Radford - VA
 2014,14010,Bloomington - IL
 2015,14010,Bloomington - IL
 2016,14010,Bloomington - IL
+2017,14010,Bloomington - IL
 2007,14020,Bloomington - IN
 2008,14020,Bloomington - IN
 2009,14020,Bloomington - IN
@@ -415,6 +456,7 @@ year,code,name
 2014,14020,Bloomington - IN
 2015,14020,Bloomington - IN
 2016,14020,Bloomington - IN
+2017,14020,Bloomington - IN
 2007,14060,"Bloomington, Normal - IL"
 2008,14060,"Bloomington, Normal - IL"
 2009,14060,"Bloomington, Normal - IL"
@@ -425,6 +467,7 @@ year,code,name
 2014,14100,"Bloomsburg, Berwick - PA"
 2015,14100,"Bloomsburg, Berwick - PA"
 2016,14100,"Bloomsburg, Berwick - PA"
+2017,14100,Bloomsburg-Berwick - PA
 2007,14260,"Boise City, Nampa - ID"
 2008,14260,"Boise City, Nampa - ID"
 2009,14260,"Boise City, Nampa - ID"
@@ -435,9 +478,11 @@ year,code,name
 2014,14260,Boise City - ID
 2015,14260,Boise City - ID
 2016,14260,Boise City - ID
+2017,14260,Boise City - ID
 2014,14454,Boston - MA
 2015,14454,Boston - MA
 2016,14454,Boston - MA
+2017,14460,"Boston-Cambridge-Newton - MA, NH"
 2007,14484,"Boston, Quincy - MA"
 2008,14484,"Boston, Quincy - MA"
 2009,14484,"Boston, Quincy - MA"
@@ -455,6 +500,7 @@ year,code,name
 2014,14500,Boulder - CO
 2015,14500,Boulder - CO
 2016,14500,Boulder - CO
+2017,14500,Boulder - CO
 2007,14540,Bowling Green - KY
 2008,14540,Bowling Green - KY
 2009,14540,Bowling Green - KY
@@ -465,6 +511,7 @@ year,code,name
 2014,14540,Bowling Green - KY
 2015,14540,Bowling Green - KY
 2016,14540,Bowling Green - KY
+2017,14540,Bowling Green - KY
 2008,14600,"Bradenton, Sarasota, Venice - FL"
 2009,14600,"Bradenton, Sarasota, Venice - FL"
 2007,14740,"Bremerton, Silverdale - WA"
@@ -477,6 +524,7 @@ year,code,name
 2014,14740,"Bremerton, Silverdale - WA"
 2015,14740,"Bremerton, Silverdale - WA"
 2016,14740,"Bremerton, Silverdale - WA"
+2017,14740,Bremerton-Silverdale - WA
 2007,14860,"Bridgeport, Stamford, Norwalk - CT"
 2008,14860,"Bridgeport, Stamford, Norwalk - CT"
 2009,14860,"Bridgeport, Stamford, Norwalk - CT"
@@ -487,6 +535,7 @@ year,code,name
 2014,14860,"Bridgeport, Stamford, Norwalk - CT"
 2015,14860,"Bridgeport, Stamford, Norwalk - CT"
 2016,14860,"Bridgeport, Stamford, Norwalk - CT"
+2017,14860,Bridgeport-Stamford-Norwalk - CT
 2007,15180,"Brownsville, Harlingen - TX"
 2008,15180,"Brownsville, Harlingen - TX"
 2009,15180,"Brownsville, Harlingen - TX"
@@ -497,6 +546,7 @@ year,code,name
 2014,15180,"Brownsville, Harlingen - TX"
 2015,15180,"Brownsville, Harlingen - TX"
 2016,15180,"Brownsville, Harlingen - TX"
+2017,15180,Brownsville-Harlingen - TX
 2007,15260,Brunswick - GA
 2008,15260,Brunswick - GA
 2009,15260,Brunswick - GA
@@ -507,6 +557,7 @@ year,code,name
 2014,15260,Brunswick - GA
 2015,15260,Brunswick - GA
 2016,15260,Brunswick - GA
+2017,15260,Brunswick - GA
 2007,15380,"Buffalo, Niagara Falls - NY"
 2008,15380,"Buffalo, Niagara Falls - NY"
 2009,15380,"Buffalo, Niagara Falls - NY"
@@ -517,6 +568,7 @@ year,code,name
 2014,15380,"Buffalo, Cheektowaga, Niagara Falls - NY"
 2015,15380,"Buffalo, Cheektowaga, Niagara Falls - NY"
 2016,15380,"Buffalo, Cheektowaga, Niagara Falls - NY"
+2017,15380,Buffalo-Cheektowaga-Niagara Falls - NY
 2007,15500,Burlington - NC
 2008,15500,Burlington - NC
 2009,15500,Burlington - NC
@@ -527,6 +579,7 @@ year,code,name
 2014,15500,Burlington - NC
 2015,15500,Burlington - NC
 2016,15500,Burlington - NC
+2017,15500,Burlington - NC
 2007,15540,"Burlington, South Burlington - VT"
 2008,15540,"Burlington, South Burlington - VT"
 2009,15540,"Burlington, South Burlington - VT"
@@ -537,9 +590,11 @@ year,code,name
 2014,15540,"Burlington, South Burlington - VT"
 2015,15540,"Burlington, South Burlington - VT"
 2016,15540,"Burlington, South Burlington - VT"
+2017,15540,Burlington-South Burlington - VT
 2014,15680,"California, Lexington Park - MD"
 2015,15680,"California, Lexington Park - MD"
 2016,15680,"California, Lexington Park - MD"
+2017,15680,California-Lexington Park - MD
 2007,15764,"Cambridge, Newton, Framingham - MA"
 2008,15764,"Cambridge, Newton, Framingham - MA"
 2009,15764,"Cambridge, Newton, Framingham - MA"
@@ -570,6 +625,7 @@ year,code,name
 2014,15940,"Canton, Massillon - OH"
 2015,15940,"Canton, Massillon - OH"
 2016,15940,"Canton, Massillon - OH"
+2017,15940,Canton-Massillon - OH
 2007,15980,"Cape Coral, Fort Myers - FL"
 2008,15980,"Cape Coral, Fort Myers - FL"
 2009,15980,"Cape Coral, Fort Myers - FL"
@@ -580,6 +636,7 @@ year,code,name
 2014,15980,"Cape Coral, Fort Myers - FL"
 2015,15980,"Cape Coral, Fort Myers - FL"
 2016,15980,"Cape Coral, Fort Myers - FL"
+2017,15980,Cape Coral-Fort Myers - FL
 2009,16020,"Cape Girardeau, Jackson - MO, IL"
 2010,16020,"Cape Girardeau, Jackson - MO, IL"
 2011,16020,"Cape Girardeau, Jackson - MO, IL"
@@ -588,9 +645,11 @@ year,code,name
 2014,16020,"Cape Girardeau - MO, IL"
 2015,16020,"Cape Girardeau - MO, IL"
 2016,16020,"Cape Girardeau - MO, IL"
+2017,16020,"Cape Girardeau - MO, IL"
 2014,16060,"Carbondale, Marion - IL"
 2015,16060,"Carbondale, Marion - IL"
 2016,16060,"Carbondale, Marion - IL"
+2017,16060,Carbondale-Marion - IL
 2007,16180,Carson City - NV
 2008,16180,Carson City - NV
 2009,16180,Carson City - NV
@@ -601,6 +660,7 @@ year,code,name
 2014,16180,Carson City - NV
 2015,16180,Carson City - NV
 2016,16180,Carson City - NV
+2017,16180,Carson City - NV
 2007,16220,Casper - WY
 2008,16220,Casper - WY
 2009,16220,Casper - WY
@@ -611,6 +671,7 @@ year,code,name
 2014,16220,Casper - WY
 2015,16220,Casper - WY
 2016,16220,Casper - WY
+2017,16220,Casper - WY
 2007,16300,Cedar Rapids - IA
 2008,16300,Cedar Rapids - IA
 2009,16300,Cedar Rapids - IA
@@ -621,9 +682,11 @@ year,code,name
 2014,16300,Cedar Rapids - IA
 2015,16300,Cedar Rapids - IA
 2016,16300,Cedar Rapids - IA
+2017,16300,Cedar Rapids - IA
 2014,16540,"Chambersburg, Waynesboro - PA"
 2015,16540,"Chambersburg, Waynesboro - PA"
 2016,16540,"Chambersburg, Waynesboro - PA"
+2017,16540,Chambersburg-Waynesboro - PA
 2007,16580,"Champaign, Urbana - IL"
 2008,16580,"Champaign, Urbana - IL"
 2009,16580,"Champaign, Urbana - IL"
@@ -634,6 +697,7 @@ year,code,name
 2014,16580,"Champaign, Urbana - IL"
 2015,16580,"Champaign, Urbana - IL"
 2016,16580,"Champaign, Urbana - IL"
+2017,16580,Champaign-Urbana - IL
 2007,16620,Charleston - WV
 2008,16620,Charleston - WV
 2009,16620,Charleston - WV
@@ -644,6 +708,7 @@ year,code,name
 2014,16620,Charleston - WV
 2015,16620,Charleston - WV
 2016,16620,Charleston - WV
+2017,16620,Charleston - WV
 2007,16700,"Charleston, North Charleston - SC"
 2008,16700,"Charleston, North Charleston, Summerville - SC"
 2009,16700,"Charleston, North Charleston, Summerville - SC"
@@ -654,6 +719,7 @@ year,code,name
 2014,16700,"Charleston, North Charleston - SC"
 2015,16700,"Charleston, North Charleston - SC"
 2016,16700,"Charleston, North Charleston - SC"
+2017,16700,Charleston-North Charleston - SC
 2007,16740,"Charlotte, Gastonia, Concord - NC, SC"
 2008,16740,"Charlotte, Gastonia, Concord - NC, SC"
 2009,16740,"Charlotte, Gastonia, Concord - NC, SC"
@@ -664,6 +730,7 @@ year,code,name
 2014,16740,"Charlotte, Concord, Gastonia - NC, SC"
 2015,16740,"Charlotte, Concord, Gastonia - NC, SC"
 2016,16740,"Charlotte, Concord, Gastonia - NC, SC"
+2017,16740,"Charlotte-Concord-Gastonia - NC, SC"
 2007,16820,Charlottesville - VA
 2008,16820,Charlottesville - VA
 2009,16820,Charlottesville - VA
@@ -674,6 +741,7 @@ year,code,name
 2014,16820,Charlottesville - VA
 2015,16820,Charlottesville - VA
 2016,16820,Charlottesville - VA
+2017,16820,Charlottesville - VA
 2007,16860,"Chattanooga - TN, GA"
 2008,16860,"Chattanooga - TN, GA"
 2009,16860,"Chattanooga - TN, GA"
@@ -684,6 +752,7 @@ year,code,name
 2014,16860,"Chattanooga - TN, GA"
 2015,16860,"Chattanooga - TN, GA"
 2016,16860,"Chattanooga - TN, GA"
+2017,16860,"Chattanooga - TN, GA"
 2007,16940,Cheyenne - WY
 2008,16940,Cheyenne - WY
 2009,16940,Cheyenne - WY
@@ -694,6 +763,7 @@ year,code,name
 2014,16940,Cheyenne - WY
 2015,16940,Cheyenne - WY
 2016,16940,Cheyenne - WY
+2017,16940,Cheyenne - WY
 2007,16974,"Chicago, Naperville, Joliet - IL"
 2008,16974,"Chicago, Naperville, Joliet - IL"
 2009,16974,"Chicago, Naperville, Joliet - IL"
@@ -704,6 +774,7 @@ year,code,name
 2014,16974,"Chicago, Naperville, Arlington Heights - IL"
 2015,16974,"Chicago, Naperville, Arlington Heights - IL"
 2016,16974,"Chicago, Naperville, Arlington Heights - IL"
+2017,16980,"Chicago-Naperville-Elgin - IL, IN, WI"
 2007,17020,Chico - CA
 2008,17020,Chico - CA
 2009,17020,Chico - CA
@@ -714,6 +785,7 @@ year,code,name
 2014,17020,Chico - CA
 2015,17020,Chico - CA
 2016,17020,Chico - CA
+2017,17020,Chico - CA
 2007,17140,"Cincinnati, Middletown - OH, KY, IN"
 2008,17140,"Cincinnati, Middletown - OH, KY, IN"
 2009,17140,"Cincinnati, Middletown - OH, KY, IN"
@@ -724,6 +796,7 @@ year,code,name
 2014,17140,"Cincinnati - OH, KY, IN"
 2015,17140,"Cincinnati - OH, KY, IN"
 2016,17140,"Cincinnati - OH, KY, IN"
+2017,17140,"Cincinnati - OH, KY, IN"
 2007,17300,"Clarksville - TN, KY"
 2008,17300,"Clarksville - TN, KY"
 2009,17300,"Clarksville - TN, KY"
@@ -734,6 +807,7 @@ year,code,name
 2014,17300,"Clarksville - TN, KY"
 2015,17300,"Clarksville - TN, KY"
 2016,17300,"Clarksville - TN, KY"
+2017,17300,"Clarksville - TN, KY"
 2007,17420,Cleveland - TN
 2008,17420,Cleveland - TN
 2009,17420,Cleveland - TN
@@ -744,6 +818,7 @@ year,code,name
 2014,17420,Cleveland - TN
 2015,17420,Cleveland - TN
 2016,17420,Cleveland - TN
+2017,17420,Cleveland - TN
 2007,17460,"Cleveland, Elyria, Mentor - OH"
 2008,17460,"Cleveland, Elyria, Mentor - OH"
 2009,17460,"Cleveland, Elyria, Mentor - OH"
@@ -754,6 +829,7 @@ year,code,name
 2014,17460,"Cleveland, Elyria - OH"
 2015,17460,"Cleveland, Elyria - OH"
 2016,17460,"Cleveland, Elyria - OH"
+2017,17460,Cleveland-Elyria - OH
 2007,17660,Coeur D'Alene - ID
 2008,17660,Coeur D'Alene - ID
 2009,17660,Coeur D'Alene - ID
@@ -764,6 +840,7 @@ year,code,name
 2014,17660,Coeur D'Alene - ID
 2015,17660,Coeur D'Alene - ID
 2016,17660,Coeur D'Alene - ID
+2017,17660,Coeur d'Alene - ID
 2007,17780,"College Station, Bryan - TX"
 2008,17780,"College Station, Bryan - TX"
 2009,17780,"College Station, Bryan - TX"
@@ -774,6 +851,7 @@ year,code,name
 2014,17780,"College Station, Bryan - TX"
 2015,17780,"College Station, Bryan - TX"
 2016,17780,"College Station, Bryan - TX"
+2017,17780,College Station-Bryan - TX
 2007,17820,Colorado Springs - CO
 2008,17820,Colorado Springs - CO
 2009,17820,Colorado Springs - CO
@@ -784,6 +862,7 @@ year,code,name
 2014,17820,Colorado Springs - CO
 2015,17820,Colorado Springs - CO
 2016,17820,Colorado Springs - CO
+2017,17820,Colorado Springs - CO
 2007,17860,Columbia - MO
 2008,17860,Columbia - MO
 2009,17860,Columbia - MO
@@ -794,6 +873,7 @@ year,code,name
 2014,17860,Columbia - MO
 2015,17860,Columbia - MO
 2016,17860,Columbia - MO
+2017,17860,Columbia - MO
 2007,17900,Columbia - SC
 2008,17900,Columbia - SC
 2009,17900,Columbia - SC
@@ -804,6 +884,7 @@ year,code,name
 2014,17900,Columbia - SC
 2015,17900,Columbia - SC
 2016,17900,Columbia - SC
+2017,17900,Columbia - SC
 2007,17980,"Columbus - GA, AL"
 2008,17980,"Columbus - GA, AL"
 2009,17980,"Columbus - GA, AL"
@@ -814,6 +895,7 @@ year,code,name
 2014,17980,"Columbus - GA, AL"
 2015,17980,"Columbus - GA, AL"
 2016,17980,"Columbus - GA, AL"
+2017,17980,"Columbus - GA, AL"
 2007,18020,Columbus - IN
 2008,18020,Columbus - IN
 2009,18020,Columbus - IN
@@ -824,6 +906,7 @@ year,code,name
 2014,18020,Columbus - IN
 2015,18020,Columbus - IN
 2016,18020,Columbus - IN
+2017,18020,Columbus - IN
 2007,18140,Columbus - OH
 2008,18140,Columbus - OH
 2009,18140,Columbus - OH
@@ -834,6 +917,7 @@ year,code,name
 2014,18140,Columbus - OH
 2015,18140,Columbus - OH
 2016,18140,Columbus - OH
+2017,18140,Columbus - OH
 2007,18580,Corpus Christi - TX
 2008,18580,Corpus Christi - TX
 2009,18580,Corpus Christi - TX
@@ -844,6 +928,7 @@ year,code,name
 2014,18580,Corpus Christi - TX
 2015,18580,Corpus Christi - TX
 2016,18580,Corpus Christi - TX
+2017,18580,Corpus Christi - TX
 2007,18700,Corvallis - OR
 2008,18700,Corvallis - OR
 2009,18700,Corvallis - OR
@@ -854,6 +939,7 @@ year,code,name
 2014,18700,Corvallis - OR
 2015,18700,Corvallis - OR
 2016,18700,Corvallis - OR
+2017,18700,Corvallis - OR
 2010,18880,"Crestview, Fort Walton Beach, Destin - FL"
 2011,18880,"Crestview, Fort Walton Beach, Destin - FL"
 2012,18880,"Crestview, Fort Walton Beach, Destin - FL"
@@ -861,6 +947,7 @@ year,code,name
 2014,18880,"Crestview, Fort Walton Beach, Destin - FL"
 2015,18880,"Crestview, Fort Walton Beach, Destin - FL"
 2016,18880,"Crestview, Fort Walton Beach, Destin - FL"
+2017,18880,Crestview-Fort Walton Beach-Destin - FL
 2007,19060,"Cumberland - MD, WV"
 2008,19060,"Cumberland - MD, WV"
 2009,19060,"Cumberland - MD, WV"
@@ -871,6 +958,8 @@ year,code,name
 2014,19060,"Cumberland - MD, WV"
 2015,19060,"Cumberland - MD, WV"
 2016,19060,"Cumberland - MD, WV"
+2017,19060,"Cumberland - MD, WV"
+2017,19100,Dallas-Fort Worth-Arlington - TX
 2007,19124,"Dallas, Plano, Irving - TX"
 2008,19124,"Dallas, Plano, Irving - TX"
 2009,19124,"Dallas, Plano, Irving - TX"
@@ -891,6 +980,7 @@ year,code,name
 2014,19140,Dalton - GA
 2015,19140,Dalton - GA
 2016,19140,Dalton - GA
+2017,19140,Dalton - GA
 2007,19180,Danville - IL
 2008,19180,Danville - IL
 2009,19180,Danville - IL
@@ -901,6 +991,7 @@ year,code,name
 2014,19180,Danville - IL
 2015,19180,Danville - IL
 2016,19180,Danville - IL
+2017,19180,Danville - IL
 2007,19260,Danville - VA
 2008,19260,Danville - VA
 2009,19260,Danville - VA
@@ -911,6 +1002,7 @@ year,code,name
 2014,19300,"Daphne, Fairhope, Foley - AL"
 2015,19300,"Daphne, Fairhope, Foley - AL"
 2016,19300,"Daphne, Fairhope, Foley - AL"
+2017,19300,Daphne-Fairhope-Foley - AL
 2007,19340,"Davenport, Moline, Rock Island - IA, IL"
 2008,19340,"Davenport, Moline, Rock Island - IA, IL"
 2009,19340,"Davenport, Moline, Rock Island - IA, IL"
@@ -921,6 +1013,7 @@ year,code,name
 2014,19340,"Davenport, Moline, Rock Island - IA, IL"
 2015,19340,"Davenport, Moline, Rock Island - IA, IL"
 2016,19340,"Davenport, Moline, Rock Island - IA, IL"
+2017,19340,"Davenport-Moline-Rock Island - IA, IL"
 2007,19380,Dayton - OH
 2008,19380,Dayton - OH
 2009,19380,Dayton - OH
@@ -931,6 +1024,7 @@ year,code,name
 2014,19380,Dayton - OH
 2015,19380,Dayton - OH
 2016,19380,Dayton - OH
+2017,19380,Dayton - OH
 2007,19460,Decatur - AL
 2008,19460,Decatur - AL
 2009,19460,Decatur - AL
@@ -941,6 +1035,7 @@ year,code,name
 2014,19460,Decatur - AL
 2015,19460,Decatur - AL
 2016,19460,Decatur - AL
+2017,19460,Decatur - AL
 2007,19500,Decatur - IL
 2008,19500,Decatur - IL
 2009,19500,Decatur - IL
@@ -951,6 +1046,7 @@ year,code,name
 2014,19500,Decatur - IL
 2015,19500,Decatur - IL
 2016,19500,Decatur - IL
+2017,19500,Decatur - IL
 2007,19660,"Deltona, Daytona Beach, Ormond Beach - FL"
 2008,19660,"Deltona, Daytona Beach, Ormond Beach - FL"
 2009,19660,"Deltona, Daytona Beach, Ormond Beach - FL"
@@ -961,6 +1057,7 @@ year,code,name
 2014,19660,"Deltona, Daytona Beach, Ormond Beach - FL"
 2015,19660,"Deltona, Daytona Beach, Ormond Beach - FL"
 2016,19660,"Deltona, Daytona Beach, Ormond Beach - FL"
+2017,19660,Deltona-Daytona Beach-Ormond Beach - FL
 2007,19740,"Denver, Aurora - CO"
 2008,19740,"Denver, Aurora - CO"
 2009,19740,"Denver, Aurora, Broomfield - CO"
@@ -971,6 +1068,7 @@ year,code,name
 2014,19740,"Denver, Aurora, Lakewood - CO"
 2015,19740,"Denver, Aurora, Lakewood - CO"
 2016,19740,"Denver, Aurora, Lakewood - CO"
+2017,19740,Denver-Aurora-Lakewood - CO
 2007,19780,"Des Moines, West Des Moines - IA"
 2008,19780,"Des Moines, West Des Moines - IA"
 2009,19780,"Des Moines, West Des Moines - IA"
@@ -981,6 +1079,7 @@ year,code,name
 2014,19780,"Des Moines, West Des Moines - IA"
 2015,19780,"Des Moines, West Des Moines - IA"
 2016,19780,"Des Moines, West Des Moines - IA"
+2017,19780,Des Moines-West Des Moines - IA
 2007,19804,"Detroit, Livonia, Dearborn - MI"
 2008,19804,"Detroit, Livonia, Dearborn - MI"
 2009,19804,"Detroit, Livonia, Dearborn - MI"
@@ -991,6 +1090,7 @@ year,code,name
 2014,19804,"Detroit, Dearborn, Livonia - MI"
 2015,19804,"Detroit, Dearborn, Livonia - MI"
 2016,19804,"Detroit, Dearborn, Livonia - MI"
+2017,19820,Detroit-Warren-Dearborn - MI
 2007,20020,Dothan - AL
 2008,20020,Dothan - AL
 2009,20020,Dothan - AL
@@ -1001,6 +1101,7 @@ year,code,name
 2014,20020,Dothan - AL
 2015,20020,Dothan - AL
 2016,20020,Dothan - AL
+2017,20020,Dothan - AL
 2007,20100,Dover - DE
 2008,20100,Dover - DE
 2009,20100,Dover - DE
@@ -1011,6 +1112,7 @@ year,code,name
 2014,20100,Dover - DE
 2015,20100,Dover - DE
 2016,20100,Dover - DE
+2017,20100,Dover - DE
 2007,20220,Dubuque - IA
 2008,20220,Dubuque - IA
 2009,20220,Dubuque - IA
@@ -1021,6 +1123,7 @@ year,code,name
 2014,20220,Dubuque - IA
 2015,20220,Dubuque - IA
 2016,20220,Dubuque - IA
+2017,20220,Dubuque - IA
 2007,20260,"Duluth - MN, WI"
 2008,20260,"Duluth - MN, WI"
 2009,20260,"Duluth - MN, WI"
@@ -1031,6 +1134,7 @@ year,code,name
 2014,20260,"Duluth - MN, WI"
 2015,20260,"Duluth - MN, WI"
 2016,20260,"Duluth - MN, WI"
+2017,20260,"Duluth - MN, WI"
 2007,20500,Durham - NC
 2008,20500,Durham - NC
 2009,20500,"Durham, Chapel Hill - NC"
@@ -1041,12 +1145,14 @@ year,code,name
 2014,20500,"Durham, Chapel Hill - NC"
 2015,20500,"Durham, Chapel Hill - NC"
 2016,20500,"Durham, Chapel Hill - NC"
+2017,20500,Durham-Chapel Hill - NC
 2014,20524,"Dutchess County, Putnam County - NY"
 2015,20524,"Dutchess County, Putnam County - NY"
 2016,20524,"Dutchess County, Putnam County - NY"
 2014,20700,East Stroudsburg - PA
 2015,20700,East Stroudsburg - PA
 2016,20700,East Stroudsburg - PA
+2017,20700,East Stroudsburg - PA
 2007,20740,Eau Claire - WI
 2008,20740,Eau Claire - WI
 2009,20740,Eau Claire - WI
@@ -1057,6 +1163,7 @@ year,code,name
 2014,20740,Eau Claire - WI
 2015,20740,Eau Claire - WI
 2016,20740,Eau Claire - WI
+2017,20740,Eau Claire - WI
 2007,20764,Edison - NJ
 2008,20764,"Edison, New Brunswick - NJ"
 2009,20764,"Edison, New Brunswick - NJ"
@@ -1074,6 +1181,7 @@ year,code,name
 2014,20940,El Centro - CA
 2015,20940,El Centro - CA
 2016,20940,El Centro - CA
+2017,20940,El Centro - CA
 2014,20994,Elgin - IL
 2015,20994,Elgin - IL
 2016,20994,Elgin - IL
@@ -1087,6 +1195,7 @@ year,code,name
 2014,21060,"Elizabethtown, Fort Knox - KY"
 2015,21060,"Elizabethtown, Fort Knox - KY"
 2016,21060,"Elizabethtown, Fort Knox - KY"
+2017,21060,Elizabethtown-Fort Knox - KY
 2007,21140,"Elkhart, Goshen - IN"
 2008,21140,"Elkhart, Goshen - IN"
 2009,21140,"Elkhart, Goshen - IN"
@@ -1097,6 +1206,7 @@ year,code,name
 2014,21140,"Elkhart, Goshen - IN"
 2015,21140,"Elkhart, Goshen - IN"
 2016,21140,"Elkhart, Goshen - IN"
+2017,21140,Elkhart-Goshen - IN
 2007,21300,Elmira - NY
 2008,21300,Elmira - NY
 2009,21300,Elmira - NY
@@ -1107,6 +1217,7 @@ year,code,name
 2014,21300,Elmira - NY
 2015,21300,Elmira - NY
 2016,21300,Elmira - NY
+2017,21300,Elmira - NY
 2007,21340,El Paso - TX
 2008,21340,El Paso - TX
 2009,21340,El Paso - TX
@@ -1117,7 +1228,9 @@ year,code,name
 2014,21340,El Paso - TX
 2015,21340,El Paso - TX
 2016,21340,El Paso - TX
+2017,21340,El Paso - TX
 2016,21420,Enid - OK
+2017,21420,Enid - OK
 2007,21500,Erie - PA
 2008,21500,Erie - PA
 2009,21500,Erie - PA
@@ -1128,6 +1241,7 @@ year,code,name
 2014,21500,Erie - PA
 2015,21500,Erie - PA
 2016,21500,Erie - PA
+2017,21500,Erie - PA
 2007,21660,"Eugene, Springfield - OR"
 2008,21660,"Eugene, Springfield - OR"
 2009,21660,"Eugene, Springfield - OR"
@@ -1138,6 +1252,7 @@ year,code,name
 2014,21660,Eugene - OR
 2015,21660,Eugene - OR
 2016,21660,Eugene - OR
+2017,21660,Eugene - OR
 2007,21780,"Evansville - IN, KY"
 2008,21780,"Evansville - IN, KY"
 2009,21780,"Evansville - IN, KY"
@@ -1148,6 +1263,7 @@ year,code,name
 2014,21780,"Evansville - IN, KY"
 2015,21780,"Evansville - IN, KY"
 2016,21780,"Evansville - IN, KY"
+2017,21780,"Evansville - IN, KY"
 2007,21820,Fairbanks - AK
 2008,21820,Fairbanks - AK
 2009,21820,Fairbanks - AK
@@ -1158,6 +1274,7 @@ year,code,name
 2014,21820,Fairbanks - AK
 2015,21820,Fairbanks - AK
 2016,21820,Fairbanks - AK
+2017,21820,Fairbanks - AK
 2007,21940,Fajardo - PR
 2008,21940,Fajardo - PR
 2009,21940,Fajardo - PR
@@ -1175,6 +1292,7 @@ year,code,name
 2014,22020,"Fargo - ND, MN"
 2015,22020,"Fargo - ND, MN"
 2016,22020,"Fargo - ND, MN"
+2017,22020,"Fargo - ND, MN"
 2007,22140,Farmington - NM
 2008,22140,Farmington - NM
 2009,22140,Farmington - NM
@@ -1185,6 +1303,7 @@ year,code,name
 2014,22140,Farmington - NM
 2015,22140,Farmington - NM
 2016,22140,Farmington - NM
+2017,22140,Farmington - NM
 2007,22180,Fayetteville - NC
 2008,22180,Fayetteville - NC
 2009,22180,Fayetteville - NC
@@ -1195,6 +1314,7 @@ year,code,name
 2014,22180,Fayetteville - NC
 2015,22180,Fayetteville - NC
 2016,22180,Fayetteville - NC
+2017,22180,Fayetteville - NC
 2007,22220,"Fayetteville, Springdale, Rogers - AR, MO"
 2008,22220,"Fayetteville, Springdale, Rogers - AR, MO"
 2009,22220,"Fayetteville, Springdale, Rogers - AR, MO"
@@ -1205,6 +1325,7 @@ year,code,name
 2014,22220,"Fayetteville, Springdale, Rogers - AR, MO"
 2015,22220,"Fayetteville, Springdale, Rogers - AR, MO"
 2016,22220,"Fayetteville, Springdale, Rogers - AR, MO"
+2017,22220,"Fayetteville-Springdale-Rogers - AR, MO"
 2007,22380,Flagstaff - AZ
 2008,22380,Flagstaff - AZ
 2009,22380,Flagstaff - AZ
@@ -1215,6 +1336,7 @@ year,code,name
 2014,22380,Flagstaff - AZ
 2015,22380,Flagstaff - AZ
 2016,22380,Flagstaff - AZ
+2017,22380,Flagstaff - AZ
 2007,22420,Flint - MI
 2008,22420,Flint - MI
 2009,22420,Flint - MI
@@ -1225,6 +1347,7 @@ year,code,name
 2014,22420,Flint - MI
 2015,22420,Flint - MI
 2016,22420,Flint - MI
+2017,22420,Flint - MI
 2007,22500,Florence - SC
 2008,22500,Florence - SC
 2009,22500,Florence - SC
@@ -1235,6 +1358,7 @@ year,code,name
 2014,22500,Florence - SC
 2015,22500,Florence - SC
 2016,22500,Florence - SC
+2017,22500,Florence - SC
 2007,22520,"Florence, Muscle Shoals - AL"
 2008,22520,"Florence, Muscle Shoals - AL"
 2009,22520,"Florence, Muscle Shoals - AL"
@@ -1245,6 +1369,7 @@ year,code,name
 2014,22520,"Florence, Muscle Shoals - AL"
 2015,22520,"Florence, Muscle Shoals - AL"
 2016,22520,"Florence, Muscle Shoals - AL"
+2017,22520,Florence-Muscle Shoals - AL
 2007,22540,Fond du Lac - WI
 2008,22540,Fond du Lac - WI
 2009,22540,Fond du Lac - WI
@@ -1255,6 +1380,7 @@ year,code,name
 2014,22540,Fond du Lac - WI
 2015,22540,Fond du Lac - WI
 2016,22540,Fond du Lac - WI
+2017,22540,Fond du Lac - WI
 2007,22660,"Fort Collins, Loveland - CO"
 2008,22660,"Fort Collins, Loveland - CO"
 2009,22660,"Fort Collins, Loveland - CO"
@@ -1265,6 +1391,7 @@ year,code,name
 2014,22660,Fort Collins - CO
 2015,22660,Fort Collins - CO
 2016,22660,Fort Collins - CO
+2017,22660,Fort Collins - CO
 2007,22744,"Fort Lauderdale, Pompano Beach, Deerfield Beach - FL"
 2008,22744,"Fort Lauderdale, Pompano Beach, Deerfield Beach - FL"
 2009,22744,"Fort Lauderdale, Pompano Beach, Deerfield Beach - FL"
@@ -1285,6 +1412,7 @@ year,code,name
 2014,22900,"Fort Smith - AR, OK"
 2015,22900,"Fort Smith - AR, OK"
 2016,22900,"Fort Smith - AR, OK"
+2017,22900,"Fort Smith - AR, OK"
 2007,23020,"Fort Walton Beach, Crestview, Destin - FL"
 2008,23020,"Fort Walton Beach, Crestview, Destin - FL"
 2009,23020,"Fort Walton Beach, Crestview, Destin - FL"
@@ -1298,6 +1426,7 @@ year,code,name
 2014,23060,Fort Wayne - IN
 2015,23060,Fort Wayne - IN
 2016,23060,Fort Wayne - IN
+2017,23060,Fort Wayne - IN
 2007,23104,"Fort Worth, Arlington - TX"
 2008,23104,"Fort Worth, Arlington - TX"
 2009,23104,"Fort Worth, Arlington - TX"
@@ -1318,6 +1447,7 @@ year,code,name
 2014,23420,Fresno - CA
 2015,23420,Fresno - CA
 2016,23420,Fresno - CA
+2017,23420,Fresno - CA
 2007,23460,Gadsden - AL
 2008,23460,Gadsden - AL
 2009,23460,Gadsden - AL
@@ -1328,6 +1458,7 @@ year,code,name
 2014,23460,Gadsden - AL
 2015,23460,Gadsden - AL
 2016,23460,Gadsden - AL
+2017,23460,Gadsden - AL
 2007,23540,Gainesville - FL
 2008,23540,Gainesville - FL
 2009,23540,Gainesville - FL
@@ -1338,6 +1469,7 @@ year,code,name
 2014,23540,Gainesville - FL
 2015,23540,Gainesville - FL
 2016,23540,Gainesville - FL
+2017,23540,Gainesville - FL
 2007,23580,Gainesville - GA
 2008,23580,Gainesville - GA
 2009,23580,Gainesville - GA
@@ -1348,6 +1480,7 @@ year,code,name
 2014,23580,Gainesville - GA
 2015,23580,Gainesville - GA
 2016,23580,Gainesville - GA
+2017,23580,Gainesville - GA
 2007,23844,Gary - IN
 2008,23844,Gary - IN
 2009,23844,Gary - IN
@@ -1361,6 +1494,7 @@ year,code,name
 2014,23900,Gettysburg - PA
 2015,23900,Gettysburg - PA
 2016,23900,Gettysburg - PA
+2017,23900,Gettysburg - PA
 2007,24020,Glens Falls - NY
 2008,24020,Glens Falls - NY
 2009,24020,Glens Falls - NY
@@ -1371,6 +1505,7 @@ year,code,name
 2014,24020,Glens Falls - NY
 2015,24020,Glens Falls - NY
 2016,24020,Glens Falls - NY
+2017,24020,Glens Falls - NY
 2007,24140,Goldsboro - NC
 2008,24140,Goldsboro - NC
 2009,24140,Goldsboro - NC
@@ -1381,6 +1516,7 @@ year,code,name
 2014,24140,Goldsboro - NC
 2015,24140,Goldsboro - NC
 2016,24140,Goldsboro - NC
+2017,24140,Goldsboro - NC
 2007,24220,"Grand Forks - ND, MN"
 2008,24220,"Grand Forks - ND, MN"
 2009,24220,"Grand Forks - ND, MN"
@@ -1391,9 +1527,11 @@ year,code,name
 2014,24220,"Grand Forks - ND, MN"
 2015,24220,"Grand Forks - ND, MN"
 2016,24220,"Grand Forks - ND, MN"
+2017,24220,"Grand Forks - ND, MN"
 2014,24260,Grand Island - NE
 2015,24260,Grand Island - NE
 2016,24260,Grand Island - NE
+2017,24260,Grand Island - NE
 2007,24300,Grand Junction - CO
 2008,24300,Grand Junction - CO
 2009,24300,Grand Junction - CO
@@ -1404,6 +1542,7 @@ year,code,name
 2014,24300,Grand Junction - CO
 2015,24300,Grand Junction - CO
 2016,24300,Grand Junction - CO
+2017,24300,Grand Junction - CO
 2007,24340,"Grand Rapids, Wyoming - MI"
 2008,24340,"Grand Rapids, Wyoming - MI"
 2009,24340,"Grand Rapids, Wyoming - MI"
@@ -1414,9 +1553,11 @@ year,code,name
 2014,24340,"Grand Rapids, Wyoming - MI"
 2015,24340,"Grand Rapids, Wyoming - MI"
 2016,24340,"Grand Rapids, Wyoming - MI"
+2017,24340,Grand Rapids-Wyoming - MI
 2014,24420,Grants Pass - OR
 2015,24420,Grants Pass - OR
 2016,24420,Grants Pass - OR
+2017,24420,Grants Pass - OR
 2007,24500,Great Falls - MT
 2008,24500,Great Falls - MT
 2009,24500,Great Falls - MT
@@ -1427,6 +1568,7 @@ year,code,name
 2014,24500,Great Falls - MT
 2015,24500,Great Falls - MT
 2016,24500,Great Falls - MT
+2017,24500,Great Falls - MT
 2007,24540,Greeley - CO
 2008,24540,Greeley - CO
 2009,24540,Greeley - CO
@@ -1437,6 +1579,7 @@ year,code,name
 2014,24540,Greeley - CO
 2015,24540,Greeley - CO
 2016,24540,Greeley - CO
+2017,24540,Greeley - CO
 2007,24580,Green Bay - WI
 2008,24580,Green Bay - WI
 2009,24580,Green Bay - WI
@@ -1447,6 +1590,7 @@ year,code,name
 2014,24580,Green Bay - WI
 2015,24580,Green Bay - WI
 2016,24580,Green Bay - WI
+2017,24580,Green Bay - WI
 2007,24660,"Greensboro, High Point - NC"
 2008,24660,"Greensboro, High Point - NC"
 2009,24660,"Greensboro, High Point - NC"
@@ -1457,6 +1601,7 @@ year,code,name
 2014,24660,"Greensboro, High Point - NC"
 2015,24660,"Greensboro, High Point - NC"
 2016,24660,"Greensboro, High Point - NC"
+2017,24660,Greensboro-High Point - NC
 2007,24780,Greenville - NC
 2008,24780,Greenville - NC
 2009,24780,Greenville - NC
@@ -1467,6 +1612,7 @@ year,code,name
 2014,24780,Greenville - NC
 2015,24780,Greenville - NC
 2016,24780,Greenville - NC
+2017,24780,Greenville - NC
 2007,24860,"Greenville, Mauldin, Easley - SC"
 2008,24860,"Greenville, Mauldin, Easley - SC"
 2009,24860,"Greenville, Mauldin, Easley - SC"
@@ -1477,6 +1623,7 @@ year,code,name
 2014,24860,"Greenville, Anderson, Mauldin - SC"
 2015,24860,"Greenville, Anderson, Mauldin - SC"
 2016,24860,"Greenville, Anderson, Mauldin - SC"
+2017,24860,Greenville-Anderson-Mauldin - SC
 2007,25020,Guayama - PR
 2008,25020,Guayama - PR
 2009,25020,Guayama - PR
@@ -1487,6 +1634,7 @@ year,code,name
 2014,25020,Guayama - PR
 2015,25020,Guayama - PR
 2016,25020,Guayama - PR
+2017,25020,Guayama - PR
 2007,25060,"Gulfport, Biloxi - MS"
 2008,25060,"Gulfport, Biloxi - MS"
 2009,25060,"Gulfport, Biloxi - MS"
@@ -1497,6 +1645,7 @@ year,code,name
 2014,25060,"Gulfport, Biloxi, Pascagoula - MS"
 2015,25060,"Gulfport, Biloxi, Pascagoula - MS"
 2016,25060,"Gulfport, Biloxi, Pascagoula - MS"
+2017,25060,Gulfport-Biloxi-Pascagoula - MS
 2007,25180,"Hagerstown, Martinsburg - MD, WV"
 2008,25180,"Hagerstown, Martinsburg - MD, WV"
 2009,25180,"Hagerstown, Martinsburg - MD, WV"
@@ -1507,9 +1656,11 @@ year,code,name
 2014,25180,"Hagerstown, Martinsburg - MD, WV"
 2015,25180,"Hagerstown, Martinsburg - MD, WV"
 2016,25180,"Hagerstown, Martinsburg - MD, WV"
+2017,25180,"Hagerstown-Martinsburg - MD, WV"
 2014,25220,Hammond - LA
 2015,25220,Hammond - LA
 2016,25220,Hammond - LA
+2017,25220,Hammond - LA
 2007,25260,"Hanford, Corcoran - CA"
 2008,25260,"Hanford, Corcoran - CA"
 2009,25260,"Hanford, Corcoran - CA"
@@ -1520,6 +1671,7 @@ year,code,name
 2014,25260,"Hanford, Corcoran - CA"
 2015,25260,"Hanford, Corcoran - CA"
 2016,25260,"Hanford, Corcoran - CA"
+2017,25260,Hanford-Corcoran - CA
 2007,25420,"Harrisburg, Carlisle - PA"
 2008,25420,"Harrisburg, Carlisle - PA"
 2009,25420,"Harrisburg, Carlisle - PA"
@@ -1530,6 +1682,7 @@ year,code,name
 2014,25420,"Harrisburg, Carlisle - PA"
 2015,25420,"Harrisburg, Carlisle - PA"
 2016,25420,"Harrisburg, Carlisle - PA"
+2017,25420,Harrisburg-Carlisle - PA
 2007,25500,Harrisonburg - VA
 2008,25500,Harrisonburg - VA
 2009,25500,Harrisonburg - VA
@@ -1540,6 +1693,7 @@ year,code,name
 2014,25500,Harrisonburg - VA
 2015,25500,Harrisonburg - VA
 2016,25500,Harrisonburg - VA
+2017,25500,Harrisonburg - VA
 2007,25540,"Hartford, West Hartford, East Hartford - CT"
 2008,25540,"Hartford, West Hartford, East Hartford - CT"
 2009,25540,"Hartford, West Hartford, East Hartford - CT"
@@ -1550,6 +1704,7 @@ year,code,name
 2014,25540,"Hartford, West Hartford, East Hartford - CT"
 2015,25540,"Hartford, West Hartford, East Hartford - CT"
 2016,25540,"Hartford, West Hartford, East Hartford - CT"
+2017,25540,Hartford-West Hartford-East Hartford - CT
 2007,25620,Hattiesburg - MS
 2008,25620,Hattiesburg - MS
 2009,25620,Hattiesburg - MS
@@ -1560,6 +1715,7 @@ year,code,name
 2014,25620,Hattiesburg - MS
 2015,25620,Hattiesburg - MS
 2016,25620,Hattiesburg - MS
+2017,25620,Hattiesburg - MS
 2007,25860,"Hickory, Lenoir, Morganton - NC"
 2008,25860,"Hickory, Lenoir, Morganton - NC"
 2009,25860,"Hickory, Lenoir, Morganton - NC"
@@ -1570,9 +1726,11 @@ year,code,name
 2014,25860,"Hickory, Lenoir, Morganton - NC"
 2015,25860,"Hickory, Lenoir, Morganton - NC"
 2016,25860,"Hickory, Lenoir, Morganton - NC"
+2017,25860,Hickory-Lenoir-Morganton - NC
 2014,25940,"Hilton Head Island, Bluffton, Beaufort - SC"
 2015,25940,"Hilton Head Island, Bluffton, Beaufort - SC"
 2016,25940,"Hilton Head Island, Bluffton, Beaufort - SC"
+2017,25940,Hilton Head Island-Bluffton-Beaufort - SC
 2007,25980,"Hinesville, Fort Stewart - GA"
 2008,25980,"Hinesville, Fort Stewart - GA"
 2009,25980,"Hinesville, Fort Stewart - GA"
@@ -1583,6 +1741,7 @@ year,code,name
 2014,25980,Hinesville - GA
 2015,25980,Hinesville - GA
 2016,25980,Hinesville - GA
+2017,25980,Hinesville - GA
 2007,26100,"Holland, Grand Haven - MI"
 2008,26100,"Holland, Grand Haven - MI"
 2009,26100,"Holland, Grand Haven - MI"
@@ -1593,6 +1752,7 @@ year,code,name
 2014,26140,Homosassa Springs - FL
 2015,26140,Homosassa Springs - FL
 2016,26140,Homosassa Springs - FL
+2017,26140,Homosassa Springs - FL
 2007,26180,Honolulu - HI
 2008,26180,Honolulu - HI
 2009,26180,Honolulu - HI
@@ -1610,6 +1770,7 @@ year,code,name
 2014,26300,Hot Springs - AR
 2015,26300,Hot Springs - AR
 2016,26300,Hot Springs - AR
+2017,26300,Hot Springs - AR
 2007,26380,"Houma, Bayou Cane, Thibodaux - LA"
 2008,26380,"Houma, Bayou Cane, Thibodaux - LA"
 2009,26380,"Houma, Bayou Cane, Thibodaux - LA"
@@ -1620,6 +1781,7 @@ year,code,name
 2014,26380,"Houma, Thibodaux - LA"
 2015,26380,"Houma, Thibodaux - LA"
 2016,26380,"Houma, Thibodaux - LA"
+2017,26380,Houma-Thibodaux - LA
 2007,26420,"Houston, Sugar Land, Baytown - TX"
 2008,26420,"Houston, Sugar Land, Baytown - TX"
 2009,26420,"Houston, Sugar Land, Baytown - TX"
@@ -1630,6 +1792,7 @@ year,code,name
 2014,26420,"Houston, The Woodlands, Sugar Land - TX"
 2015,26420,"Houston, The Woodlands, Sugar Land - TX"
 2016,26420,"Houston, The Woodlands, Sugar Land - TX"
+2017,26420,Houston-The Woodlands-Sugar Land - TX
 2007,26580,"Huntington, Ashland - WV, KY, OH"
 2008,26580,"Huntington, Ashland - WV, KY, OH"
 2009,26580,"Huntington, Ashland - WV, KY, OH"
@@ -1640,6 +1803,7 @@ year,code,name
 2014,26580,"Huntington, Ashland - WV, KY, OH"
 2015,26580,"Huntington, Ashland - WV, KY, OH"
 2016,26580,"Huntington, Ashland - WV, KY, OH"
+2017,26580,"Huntington-Ashland - WV, KY, OH"
 2007,26620,Huntsville - AL
 2008,26620,Huntsville - AL
 2009,26620,Huntsville - AL
@@ -1650,6 +1814,7 @@ year,code,name
 2014,26620,Huntsville - AL
 2015,26620,Huntsville - AL
 2016,26620,Huntsville - AL
+2017,26620,Huntsville - AL
 2007,26820,Idaho Falls - ID
 2008,26820,Idaho Falls - ID
 2009,26820,Idaho Falls - ID
@@ -1660,6 +1825,7 @@ year,code,name
 2014,26820,Idaho Falls - ID
 2015,26820,Idaho Falls - ID
 2016,26820,Idaho Falls - ID
+2017,26820,Idaho Falls - ID
 2007,26900,"Indianapolis, Carmel - IN"
 2008,26900,"Indianapolis, Carmel - IN"
 2009,26900,"Indianapolis, Carmel - IN"
@@ -1670,6 +1836,7 @@ year,code,name
 2014,26900,"Indianapolis, Carmel, Anderson - IN"
 2015,26900,"Indianapolis, Carmel, Anderson - IN"
 2016,26900,"Indianapolis, Carmel, Anderson - IN"
+2017,26900,Indianapolis-Carmel-Anderson - IN
 2007,26980,Iowa City - IA
 2008,26980,Iowa City - IA
 2009,26980,Iowa City - IA
@@ -1680,6 +1847,7 @@ year,code,name
 2014,26980,Iowa City - IA
 2015,26980,Iowa City - IA
 2016,26980,Iowa City - IA
+2017,26980,Iowa City - IA
 2007,27060,Ithaca - NY
 2008,27060,Ithaca - NY
 2009,27060,Ithaca - NY
@@ -1690,6 +1858,7 @@ year,code,name
 2014,27060,Ithaca - NY
 2015,27060,Ithaca - NY
 2016,27060,Ithaca - NY
+2017,27060,Ithaca - NY
 2007,27100,Jackson - MI
 2008,27100,Jackson - MI
 2009,27100,Jackson - MI
@@ -1700,6 +1869,7 @@ year,code,name
 2014,27100,Jackson - MI
 2015,27100,Jackson - MI
 2016,27100,Jackson - MI
+2017,27100,Jackson - MI
 2007,27140,Jackson - MS
 2008,27140,Jackson - MS
 2009,27140,Jackson - MS
@@ -1710,6 +1880,7 @@ year,code,name
 2014,27140,Jackson - MS
 2015,27140,Jackson - MS
 2016,27140,Jackson - MS
+2017,27140,Jackson - MS
 2007,27180,Jackson - TN
 2008,27180,Jackson - TN
 2009,27180,Jackson - TN
@@ -1720,6 +1891,7 @@ year,code,name
 2014,27180,Jackson - TN
 2015,27180,Jackson - TN
 2016,27180,Jackson - TN
+2017,27180,Jackson - TN
 2007,27260,Jacksonville - FL
 2008,27260,Jacksonville - FL
 2009,27260,Jacksonville - FL
@@ -1730,6 +1902,7 @@ year,code,name
 2014,27260,Jacksonville - FL
 2015,27260,Jacksonville - FL
 2016,27260,Jacksonville - FL
+2017,27260,Jacksonville - FL
 2007,27340,Jacksonville - NC
 2008,27340,Jacksonville - NC
 2009,27340,Jacksonville - NC
@@ -1740,6 +1913,7 @@ year,code,name
 2014,27340,Jacksonville - NC
 2015,27340,Jacksonville - NC
 2016,27340,Jacksonville - NC
+2017,27340,Jacksonville - NC
 2007,27500,Janesville - WI
 2008,27500,Janesville - WI
 2009,27500,Janesville - WI
@@ -1750,6 +1924,7 @@ year,code,name
 2014,27500,"Janesville, Beloit - WI"
 2015,27500,"Janesville, Beloit - WI"
 2016,27500,"Janesville, Beloit - WI"
+2017,27500,Janesville-Beloit - WI
 2007,27620,Jefferson City - MO
 2008,27620,Jefferson City - MO
 2009,27620,Jefferson City - MO
@@ -1760,6 +1935,7 @@ year,code,name
 2014,27620,Jefferson City - MO
 2015,27620,Jefferson City - MO
 2016,27620,Jefferson City - MO
+2017,27620,Jefferson City - MO
 2007,27740,Johnson City - TN
 2008,27740,Johnson City - TN
 2009,27740,Johnson City - TN
@@ -1770,6 +1946,7 @@ year,code,name
 2014,27740,Johnson City - TN
 2015,27740,Johnson City - TN
 2016,27740,Johnson City - TN
+2017,27740,Johnson City - TN
 2007,27780,Johnstown - PA
 2008,27780,Johnstown - PA
 2009,27780,Johnstown - PA
@@ -1780,6 +1957,7 @@ year,code,name
 2014,27780,Johnstown - PA
 2015,27780,Johnstown - PA
 2016,27780,Johnstown - PA
+2017,27780,Johnstown - PA
 2007,27860,Jonesboro - AR
 2008,27860,Jonesboro - AR
 2009,27860,Jonesboro - AR
@@ -1790,6 +1968,7 @@ year,code,name
 2014,27860,Jonesboro - AR
 2015,27860,Jonesboro - AR
 2016,27860,Jonesboro - AR
+2017,27860,Jonesboro - AR
 2007,27900,Joplin - MO
 2008,27900,Joplin - MO
 2009,27900,Joplin - MO
@@ -1800,9 +1979,11 @@ year,code,name
 2014,27900,Joplin - MO
 2015,27900,Joplin - MO
 2016,27900,Joplin - MO
+2017,27900,Joplin - MO
 2014,27980,"Kahului, Wailuku, Lahaina - HI"
 2015,27980,"Kahului, Wailuku, Lahaina - HI"
 2016,27980,"Kahului, Wailuku, Lahaina - HI"
+2017,27980,Kahului-Wailuku-Lahaina - HI
 2007,28020,"Kalamazoo, Portage - MI"
 2008,28020,"Kalamazoo, Portage - MI"
 2009,28020,"Kalamazoo, Portage - MI"
@@ -1813,6 +1994,7 @@ year,code,name
 2014,28020,"Kalamazoo, Portage - MI"
 2015,28020,"Kalamazoo, Portage - MI"
 2016,28020,"Kalamazoo, Portage - MI"
+2017,28020,Kalamazoo-Portage - MI
 2007,28100,"Kankakee, Bradley - IL"
 2008,28100,"Kankakee, Bradley - IL"
 2009,28100,"Kankakee, Bradley - IL"
@@ -1823,6 +2005,7 @@ year,code,name
 2014,28100,Kankakee - IL
 2015,28100,Kankakee - IL
 2016,28100,Kankakee - IL
+2017,28100,Kankakee - IL
 2007,28140,"Kansas City - MO, KS"
 2008,28140,"Kansas City - MO, KS"
 2009,28140,"Kansas City - MO, KS"
@@ -1833,6 +2016,7 @@ year,code,name
 2014,28140,"Kansas City - MO, KS"
 2015,28140,"Kansas City - MO, KS"
 2016,28140,"Kansas City - MO, KS"
+2017,28140,"Kansas City - MO, KS"
 2007,28420,"Kennewick, Richland, Pasco - WA"
 2008,28420,"Kennewick, Pasco, Richland - WA"
 2009,28420,"Kennewick, Pasco, Richland - WA"
@@ -1843,6 +2027,7 @@ year,code,name
 2014,28420,"Kennewick, Richland - WA"
 2015,28420,"Kennewick, Richland - WA"
 2016,28420,"Kennewick, Richland - WA"
+2017,28420,Kennewick-Richland - WA
 2007,28660,"Killeen, Temple, Fort Hood - TX"
 2008,28660,"Killeen, Temple, Fort Hood - TX"
 2009,28660,"Killeen, Temple, Fort Hood - TX"
@@ -1853,6 +2038,7 @@ year,code,name
 2014,28660,"Killeen, Temple - TX"
 2015,28660,"Killeen, Temple - TX"
 2016,28660,"Killeen, Temple - TX"
+2017,28660,Killeen-Temple - TX
 2007,28700,"Kingsport, Bristol, Bristol - TN, VA"
 2008,28700,"Kingsport, Bristol, Bristol - TN, VA"
 2009,28700,"Kingsport, Bristol, Bristol - TN, VA"
@@ -1863,6 +2049,7 @@ year,code,name
 2014,28700,"Kingsport, Bristol, Bristol - TN, VA"
 2015,28700,"Kingsport, Bristol, Bristol - TN, VA"
 2016,28700,"Kingsport, Bristol, Bristol - TN, VA"
+2017,28700,"Kingsport-Bristol-Bristol - TN, VA"
 2007,28740,Kingston - NY
 2008,28740,Kingston - NY
 2009,28740,Kingston - NY
@@ -1873,6 +2060,7 @@ year,code,name
 2014,28740,Kingston - NY
 2015,28740,Kingston - NY
 2016,28740,Kingston - NY
+2017,28740,Kingston - NY
 2007,28940,Knoxville - TN
 2008,28940,Knoxville - TN
 2009,28940,Knoxville - TN
@@ -1883,6 +2071,7 @@ year,code,name
 2014,28940,Knoxville - TN
 2015,28940,Knoxville - TN
 2016,28940,Knoxville - TN
+2017,28940,Knoxville - TN
 2007,29020,Kokomo - IN
 2008,29020,Kokomo - IN
 2009,29020,Kokomo - IN
@@ -1893,6 +2082,7 @@ year,code,name
 2014,29020,Kokomo - IN
 2015,29020,Kokomo - IN
 2016,29020,Kokomo - IN
+2017,29020,Kokomo - IN
 2007,29100,"La Crosse - WI, MN"
 2008,29100,"La Crosse - WI, MN"
 2009,29100,"La Crosse - WI, MN"
@@ -1903,6 +2093,7 @@ year,code,name
 2014,29100,"La Crosse, Onalaska - WI, MN"
 2015,29100,"La Crosse, Onalaska - WI, MN"
 2016,29100,"La Crosse, Onalaska - WI, MN"
+2017,29100,"La Crosse-Onalaska - WI, MN"
 2007,29140,Lafayette - IN
 2008,29140,Lafayette - IN
 2009,29140,Lafayette - IN
@@ -1920,9 +2111,11 @@ year,code,name
 2014,29180,Lafayette - LA
 2015,29180,Lafayette - LA
 2016,29180,Lafayette - LA
+2017,29180,Lafayette - LA
 2014,29200,"Lafayette, West Lafayette - IN"
 2015,29200,"Lafayette, West Lafayette - IN"
 2016,29200,"Lafayette, West Lafayette - IN"
+2017,29200,Lafayette-West Lafayette - IN
 2007,29340,Lake Charles - LA
 2008,29340,Lake Charles - LA
 2009,29340,Lake Charles - LA
@@ -1933,6 +2126,7 @@ year,code,name
 2014,29340,Lake Charles - LA
 2015,29340,Lake Charles - LA
 2016,29340,Lake Charles - LA
+2017,29340,Lake Charles - LA
 2007,29404,"Lake County, Kenosha County - IL, WI"
 2008,29404,"Lake County, Kenosha County - IL, WI"
 2009,29404,"Lake County, Kenosha County - IL, WI"
@@ -1953,6 +2147,7 @@ year,code,name
 2014,29420,"Lake Havasu City, Kingman - AZ"
 2015,29420,"Lake Havasu City, Kingman - AZ"
 2016,29420,"Lake Havasu City, Kingman - AZ"
+2017,29420,Lake Havasu City-Kingman - AZ
 2007,29460,Lakeland - FL
 2008,29460,"Lakeland, Winter Haven - FL"
 2009,29460,"Lakeland, Winter Haven - FL"
@@ -1963,6 +2158,7 @@ year,code,name
 2014,29460,"Lakeland, Winter Haven - FL"
 2015,29460,"Lakeland, Winter Haven - FL"
 2016,29460,"Lakeland, Winter Haven - FL"
+2017,29460,Lakeland-Winter Haven - FL
 2007,29540,Lancaster - PA
 2008,29540,Lancaster - PA
 2009,29540,Lancaster - PA
@@ -1973,6 +2169,7 @@ year,code,name
 2014,29540,Lancaster - PA
 2015,29540,Lancaster - PA
 2016,29540,Lancaster - PA
+2017,29540,Lancaster - PA
 2007,29620,"Lansing, East Lansing - MI"
 2008,29620,"Lansing, East Lansing - MI"
 2009,29620,"Lansing, East Lansing - MI"
@@ -1983,6 +2180,7 @@ year,code,name
 2014,29620,"Lansing, East Lansing - MI"
 2015,29620,"Lansing, East Lansing - MI"
 2016,29620,"Lansing, East Lansing - MI"
+2017,29620,Lansing-East Lansing - MI
 2007,29700,Laredo - TX
 2008,29700,Laredo - TX
 2009,29700,Laredo - TX
@@ -1993,6 +2191,7 @@ year,code,name
 2014,29700,Laredo - TX
 2015,29700,Laredo - TX
 2016,29700,Laredo - TX
+2017,29700,Laredo - TX
 2007,29740,Las Cruces - NM
 2008,29740,Las Cruces - NM
 2009,29740,Las Cruces - NM
@@ -2003,6 +2202,7 @@ year,code,name
 2014,29740,Las Cruces - NM
 2015,29740,Las Cruces - NM
 2016,29740,Las Cruces - NM
+2017,29740,Las Cruces - NM
 2007,29820,"Las Vegas, Paradise - NV"
 2008,29820,"Las Vegas, Paradise - NV"
 2009,29820,"Las Vegas, Paradise - NV"
@@ -2013,6 +2213,7 @@ year,code,name
 2014,29820,"Las Vegas, Henderson, Paradise - NV"
 2015,29820,"Las Vegas, Henderson, Paradise - NV"
 2016,29820,"Las Vegas, Henderson, Paradise - NV"
+2017,29820,Las Vegas-Henderson-Paradise - NV
 2007,29940,Lawrence - KS
 2008,29940,Lawrence - KS
 2009,29940,Lawrence - KS
@@ -2023,6 +2224,7 @@ year,code,name
 2014,29940,Lawrence - KS
 2015,29940,Lawrence - KS
 2016,29940,Lawrence - KS
+2017,29940,Lawrence - KS
 2007,30020,Lawton - OK
 2008,30020,Lawton - OK
 2009,30020,Lawton - OK
@@ -2033,6 +2235,7 @@ year,code,name
 2014,30020,Lawton - OK
 2015,30020,Lawton - OK
 2016,30020,Lawton - OK
+2017,30020,Lawton - OK
 2007,30140,Lebanon - PA
 2008,30140,Lebanon - PA
 2009,30140,Lebanon - PA
@@ -2043,6 +2246,7 @@ year,code,name
 2014,30140,Lebanon - PA
 2015,30140,Lebanon - PA
 2016,30140,Lebanon - PA
+2017,30140,Lebanon - PA
 2007,30300,"Lewiston - ID, WA"
 2008,30300,"Lewiston - ID, WA"
 2009,30300,"Lewiston - ID, WA"
@@ -2053,6 +2257,7 @@ year,code,name
 2014,30300,"Lewiston - ID, WA"
 2015,30300,"Lewiston - ID, WA"
 2016,30300,"Lewiston - ID, WA"
+2017,30300,"Lewiston - ID, WA"
 2007,30340,"Lewiston, Auburn - ME"
 2008,30340,"Lewiston, Auburn - ME"
 2009,30340,"Lewiston, Auburn - ME"
@@ -2063,6 +2268,7 @@ year,code,name
 2014,30340,"Lewiston, Auburn - ME"
 2015,30340,"Lewiston, Auburn - ME"
 2016,30340,"Lewiston, Auburn - ME"
+2017,30340,Lewiston-Auburn - ME
 2007,30460,"Lexington, Fayette - KY"
 2008,30460,"Lexington, Fayette - KY"
 2009,30460,"Lexington, Fayette - KY"
@@ -2073,6 +2279,7 @@ year,code,name
 2014,30460,"Lexington, Fayette - KY"
 2015,30460,"Lexington, Fayette - KY"
 2016,30460,"Lexington, Fayette - KY"
+2017,30460,Lexington-Fayette - KY
 2007,30620,Lima - OH
 2008,30620,Lima - OH
 2009,30620,Lima - OH
@@ -2083,6 +2290,7 @@ year,code,name
 2014,30620,Lima - OH
 2015,30620,Lima - OH
 2016,30620,Lima - OH
+2017,30620,Lima - OH
 2007,30700,Lincoln - NE
 2008,30700,Lincoln - NE
 2009,30700,Lincoln - NE
@@ -2093,6 +2301,7 @@ year,code,name
 2014,30700,Lincoln - NE
 2015,30700,Lincoln - NE
 2016,30700,Lincoln - NE
+2017,30700,Lincoln - NE
 2007,30780,"Little Rock, North Little Rock, Conway - AR"
 2008,30780,"Little Rock, North Little Rock, Conway - AR"
 2009,30780,"Little Rock, North Little Rock, Conway - AR"
@@ -2103,6 +2312,7 @@ year,code,name
 2014,30780,"Little Rock, North Little Rock, Conway - AR"
 2015,30780,"Little Rock, North Little Rock, Conway - AR"
 2016,30780,"Little Rock, North Little Rock, Conway - AR"
+2017,30780,Little Rock-North Little Rock-Conway - AR
 2007,30860,"Logan - UT, ID"
 2008,30860,"Logan - UT, ID"
 2009,30860,"Logan - UT, ID"
@@ -2113,6 +2323,7 @@ year,code,name
 2014,30860,"Logan - UT, ID"
 2015,30860,"Logan - UT, ID"
 2016,30860,"Logan - UT, ID"
+2017,30860,"Logan - UT, ID"
 2007,30980,Longview - TX
 2008,30980,Longview - TX
 2009,30980,Longview - TX
@@ -2123,6 +2334,7 @@ year,code,name
 2014,30980,Longview - TX
 2015,30980,Longview - TX
 2016,30980,Longview - TX
+2017,30980,Longview - TX
 2007,31020,Longview - WA
 2008,31020,Longview - WA
 2009,31020,Longview - WA
@@ -2133,6 +2345,8 @@ year,code,name
 2014,31020,Longview - WA
 2015,31020,Longview - WA
 2016,31020,Longview - WA
+2017,31020,Longview - WA
+2017,31080,Los Angeles-Long Beach-Anaheim - CA
 2007,31084,"Los Angeles, Long Beach, Glendale - CA"
 2008,31084,"Los Angeles, Long Beach, Glendale - CA"
 2009,31084,"Los Angeles, Long Beach, Glendale - CA"
@@ -2153,6 +2367,7 @@ year,code,name
 2014,31140,"Louisville, Jefferson County - KY, IN"
 2015,31140,"Louisville, Jefferson County - KY, IN"
 2016,31140,"Louisville, Jefferson County - KY, IN"
+2017,31140,"Louisville/Jefferson County - KY, IN"
 2007,31180,Lubbock - TX
 2008,31180,Lubbock - TX
 2009,31180,Lubbock - TX
@@ -2163,6 +2378,7 @@ year,code,name
 2014,31180,Lubbock - TX
 2015,31180,Lubbock - TX
 2016,31180,Lubbock - TX
+2017,31180,Lubbock - TX
 2007,31340,Lynchburg - VA
 2008,31340,Lynchburg - VA
 2009,31340,Lynchburg - VA
@@ -2173,6 +2389,7 @@ year,code,name
 2014,31340,Lynchburg - VA
 2015,31340,Lynchburg - VA
 2016,31340,Lynchburg - VA
+2017,31340,Lynchburg - VA
 2007,31420,Macon - GA
 2008,31420,Macon - GA
 2009,31420,Macon - GA
@@ -2183,6 +2400,7 @@ year,code,name
 2014,31420,Macon - GA
 2015,31420,Macon - GA
 2016,31420,"Macon, Bibb County - GA"
+2017,31420,Macon-Bibb County - GA
 2007,31460,Madera - CA
 2008,31460,Madera - CA
 2009,31460,"Madera, Chowchilla - CA"
@@ -2193,6 +2411,7 @@ year,code,name
 2014,31460,Madera - CA
 2015,31460,Madera - CA
 2016,31460,Madera - CA
+2017,31460,Madera - CA
 2007,31540,Madison - WI
 2008,31540,Madison - WI
 2009,31540,Madison - WI
@@ -2203,6 +2422,7 @@ year,code,name
 2014,31540,Madison - WI
 2015,31540,Madison - WI
 2016,31540,Madison - WI
+2017,31540,Madison - WI
 2007,31700,"Manchester, Nashua - NH"
 2008,31700,"Manchester, Nashua - NH"
 2009,31700,"Manchester, Nashua - NH"
@@ -2213,6 +2433,7 @@ year,code,name
 2014,31700,"Manchester, Nashua - NH"
 2015,31700,"Manchester, Nashua - NH"
 2016,31700,"Manchester, Nashua - NH"
+2017,31700,Manchester-Nashua - NH
 2009,31740,Manhattan - KS
 2010,31740,Manhattan - KS
 2011,31740,Manhattan - KS
@@ -2221,6 +2442,7 @@ year,code,name
 2014,31740,Manhattan - KS
 2015,31740,Manhattan - KS
 2016,31740,Manhattan - KS
+2017,31740,Manhattan - KS
 2009,31860,"Mankato, North Mankato - MN"
 2010,31860,"Mankato, North Mankato - MN"
 2011,31860,"Mankato, North Mankato - MN"
@@ -2229,6 +2451,7 @@ year,code,name
 2014,31860,"Mankato, North Mankato - MN"
 2015,31860,"Mankato, North Mankato - MN"
 2016,31860,"Mankato, North Mankato - MN"
+2017,31860,Mankato-North Mankato - MN
 2007,31900,Mansfield - OH
 2008,31900,Mansfield - OH
 2009,31900,Mansfield - OH
@@ -2239,6 +2462,7 @@ year,code,name
 2014,31900,Mansfield - OH
 2015,31900,Mansfield - OH
 2016,31900,Mansfield - OH
+2017,31900,Mansfield - OH
 2007,32420,Mayaguez - PR
 2008,32420,Mayaguez - PR
 2009,32420,Mayaguez - PR
@@ -2249,6 +2473,7 @@ year,code,name
 2014,32420,Mayaguez - PR
 2015,32420,Mayaguez - PR
 2016,32420,Mayaguez - PR
+2017,32420,Mayagùez - PR
 2007,32580,"McAllen, Edinburg, Mission - TX"
 2008,32580,"McAllen, Edinburg, Mission - TX"
 2009,32580,"McAllen, Edinburg, Mission - TX"
@@ -2259,6 +2484,7 @@ year,code,name
 2014,32580,"McAllen, Edinburg, Mission - TX"
 2015,32580,"McAllen, Edinburg, Mission - TX"
 2016,32580,"McAllen, Edinburg, Mission - TX"
+2017,32580,McAllen-Edinburg-Mission - TX
 2007,32780,Medford - OR
 2008,32780,Medford - OR
 2009,32780,Medford - OR
@@ -2269,6 +2495,7 @@ year,code,name
 2014,32780,Medford - OR
 2015,32780,Medford - OR
 2016,32780,Medford - OR
+2017,32780,Medford - OR
 2007,32820,"Memphis - TN, MS, AR"
 2008,32820,"Memphis - TN, MS, AR"
 2009,32820,"Memphis - TN, MS, AR"
@@ -2279,6 +2506,7 @@ year,code,name
 2014,32820,"Memphis - TN, MS, AR"
 2015,32820,"Memphis - TN, MS, AR"
 2016,32820,"Memphis - TN, MS, AR"
+2017,32820,"Memphis - TN, MS, AR"
 2007,32900,Merced - CA
 2008,32900,Merced - CA
 2009,32900,Merced - CA
@@ -2289,6 +2517,8 @@ year,code,name
 2014,32900,Merced - CA
 2015,32900,Merced - CA
 2016,32900,Merced - CA
+2017,32900,Merced - CA
+2017,33100,Miami-Fort Lauderdale-West Palm Beach - FL
 2007,33124,"Miami, Miami Beach, Kendall - FL"
 2008,33124,"Miami, Miami Beach, Kendall - FL"
 2009,33124,"Miami, Miami Beach, Kendall - FL"
@@ -2309,9 +2539,11 @@ year,code,name
 2014,33140,"Michigan City, La Porte - IN"
 2015,33140,"Michigan City, La Porte - IN"
 2016,33140,"Michigan City, La Porte - IN"
+2017,33140,Michigan City-La Porte - IN
 2014,33220,Midland - MI
 2015,33220,Midland - MI
 2016,33220,Midland - MI
+2017,33220,Midland - MI
 2007,33260,Midland - TX
 2008,33260,Midland - TX
 2009,33260,Midland - TX
@@ -2322,6 +2554,7 @@ year,code,name
 2014,33260,Midland - TX
 2015,33260,Midland - TX
 2016,33260,Midland - TX
+2017,33260,Midland - TX
 2007,33340,"Milwaukee, Waukesha, West Allis - WI"
 2008,33340,"Milwaukee, Waukesha, West Allis - WI"
 2009,33340,"Milwaukee, Waukesha, West Allis - WI"
@@ -2332,6 +2565,7 @@ year,code,name
 2014,33340,"Milwaukee, Waukesha, West Allis - WI"
 2015,33340,"Milwaukee, Waukesha, West Allis - WI"
 2016,33340,"Milwaukee, Waukesha, West Allis - WI"
+2017,33340,Milwaukee-Waukesha-West Allis - WI
 2007,33460,"Minneapolis, St. Paul, Bloomington - MN, WI"
 2008,33460,"Minneapolis, St. Paul, Bloomington - MN, WI"
 2009,33460,"Minneapolis, St. Paul, Bloomington - MN, WI"
@@ -2342,6 +2576,7 @@ year,code,name
 2014,33460,"Minneapolis, St. Paul, Bloomington - MN, WI"
 2015,33460,"Minneapolis, St. Paul, Bloomington - MN, WI"
 2016,33460,"Minneapolis, St. Paul, Bloomington - MN, WI"
+2017,33460,"Minneapolis-St. Paul-Bloomington - MN, WI"
 2007,33540,Missoula - MT
 2008,33540,Missoula - MT
 2009,33540,Missoula - MT
@@ -2352,6 +2587,7 @@ year,code,name
 2014,33540,Missoula - MT
 2015,33540,Missoula - MT
 2016,33540,Missoula - MT
+2017,33540,Missoula - MT
 2007,33660,Mobile - AL
 2008,33660,Mobile - AL
 2009,33660,Mobile - AL
@@ -2362,6 +2598,7 @@ year,code,name
 2014,33660,Mobile - AL
 2015,33660,Mobile - AL
 2016,33660,Mobile - AL
+2017,33660,Mobile - AL
 2007,33700,Modesto - CA
 2008,33700,Modesto - CA
 2009,33700,Modesto - CA
@@ -2372,6 +2609,7 @@ year,code,name
 2014,33700,Modesto - CA
 2015,33700,Modesto - CA
 2016,33700,Modesto - CA
+2017,33700,Modesto - CA
 2007,33740,Monroe - LA
 2008,33740,Monroe - LA
 2009,33740,Monroe - LA
@@ -2382,6 +2620,7 @@ year,code,name
 2014,33740,Monroe - LA
 2015,33740,Monroe - LA
 2016,33740,Monroe - LA
+2017,33740,Monroe - LA
 2007,33780,Monroe - MI
 2008,33780,Monroe - MI
 2009,33780,Monroe - MI
@@ -2392,6 +2631,7 @@ year,code,name
 2014,33780,Monroe - MI
 2015,33780,Monroe - MI
 2016,33780,Monroe - MI
+2017,33780,Monroe - MI
 2007,33860,Montgomery - AL
 2008,33860,Montgomery - AL
 2009,33860,Montgomery - AL
@@ -2402,6 +2642,7 @@ year,code,name
 2014,33860,Montgomery - AL
 2015,33860,Montgomery - AL
 2016,33860,Montgomery - AL
+2017,33860,Montgomery - AL
 2014,33874,"Montgomery County, Bucks County, Chester County - PA"
 2015,33874,"Montgomery County, Bucks County, Chester County - PA"
 2016,33874,"Montgomery County, Bucks County, Chester County - PA"
@@ -2415,6 +2656,7 @@ year,code,name
 2014,34060,Morgantown - WV
 2015,34060,Morgantown - WV
 2016,34060,Morgantown - WV
+2017,34060,Morgantown - WV
 2007,34100,Morristown - TN
 2008,34100,Morristown - TN
 2009,34100,Morristown - TN
@@ -2425,6 +2667,7 @@ year,code,name
 2014,34100,Morristown - TN
 2015,34100,Morristown - TN
 2016,34100,Morristown - TN
+2017,34100,Morristown - TN
 2007,34580,"Mount Vernon, Anacortes - WA"
 2008,34580,"Mount Vernon, Anacortes - WA"
 2009,34580,"Mount Vernon, Anacortes - WA"
@@ -2435,6 +2678,7 @@ year,code,name
 2014,34580,"Mount Vernon, Anacortes - WA"
 2015,34580,"Mount Vernon, Anacortes - WA"
 2016,34580,"Mount Vernon, Anacortes - WA"
+2017,34580,Mount Vernon-Anacortes - WA
 2007,34620,Muncie - IN
 2008,34620,Muncie - IN
 2009,34620,Muncie - IN
@@ -2445,6 +2689,7 @@ year,code,name
 2014,34620,Muncie - IN
 2015,34620,Muncie - IN
 2016,34620,Muncie - IN
+2017,34620,Muncie - IN
 2007,34740,"Muskegon, Norton Shores - MI"
 2008,34740,"Muskegon, Norton Shores - MI"
 2009,34740,"Muskegon, Norton Shores - MI"
@@ -2455,6 +2700,7 @@ year,code,name
 2014,34740,Muskegon - MI
 2015,34740,Muskegon - MI
 2016,34740,Muskegon - MI
+2017,34740,Muskegon - MI
 2007,34820,"Myrtle Beach, Conway, North Myrtle Beach - SC"
 2008,34820,"Myrtle Beach, North Myrtle Beach, Conway - SC"
 2009,34820,"Myrtle Beach, North Myrtle Beach, Conway - SC"
@@ -2465,6 +2711,7 @@ year,code,name
 2014,34820,"Myrtle Beach, Conway, North Myrtle Beach - SC, NC"
 2015,34820,"Myrtle Beach, Conway, North Myrtle Beach - SC, NC"
 2016,34820,"Myrtle Beach, Conway, North Myrtle Beach - SC, NC"
+2017,34820,"Myrtle Beach-Conway-North Myrtle Beach - SC, NC"
 2007,34900,Napa - CA
 2008,34900,Napa - CA
 2009,34900,Napa - CA
@@ -2475,6 +2722,7 @@ year,code,name
 2014,34900,Napa - CA
 2015,34900,Napa - CA
 2016,34900,Napa - CA
+2017,34900,Napa - CA
 2007,34940,"Naples, Marco Island - FL"
 2008,34940,"Naples, Marco Island - FL"
 2009,34940,"Naples, Marco Island - FL"
@@ -2485,6 +2733,7 @@ year,code,name
 2014,34940,"Naples, Immokalee, Marco Island - FL"
 2015,34940,"Naples, Immokalee, Marco Island - FL"
 2016,34940,"Naples, Immokalee, Marco Island - FL"
+2017,34940,Naples-Immokalee-Marco Island - FL
 2007,34980,"Nashville-Davidson, Murfreesboro, Franklin - TN"
 2008,34980,"Nashville-Davidson, Murfreesboro, Franklin - TN"
 2009,34980,"Nashville-Davidson, Murfreesboro, Franklin - TN"
@@ -2495,6 +2744,7 @@ year,code,name
 2014,34980,"Nashville-Davidson, Murfreesboro, Franklin - TN"
 2015,34980,"Nashville-Davidson, Murfreesboro, Franklin - TN"
 2016,34980,"Nashville-Davidson, Murfreesboro, Franklin - TN"
+2017,34980,Nashville-Davidson--Murfreesboro--Franklin - TN
 2007,35004,"Nassau, Suffolk - NY"
 2008,35004,"Nassau, Suffolk - NY"
 2009,35004,"Nassau, Suffolk - NY"
@@ -2518,6 +2768,7 @@ year,code,name
 2014,35100,New Bern - NC
 2015,35100,New Bern - NC
 2016,35100,New Bern - NC
+2017,35100,New Bern - NC
 2007,35300,"New Haven, Milford - CT"
 2008,35300,"New Haven, Milford - CT"
 2009,35300,"New Haven, Milford - CT"
@@ -2528,6 +2779,7 @@ year,code,name
 2014,35300,"New Haven, Milford - CT"
 2015,35300,"New Haven, Milford - CT"
 2016,35300,"New Haven, Milford - CT"
+2017,35300,New Haven-Milford - CT
 2007,35380,"New Orleans, Metairie, Kenner - LA"
 2008,35380,"New Orleans, Metairie, Kenner - LA"
 2009,35380,"New Orleans, Metairie, Kenner - LA"
@@ -2538,9 +2790,11 @@ year,code,name
 2014,35380,"New Orleans, Metairie - LA"
 2015,35380,"New Orleans, Metairie - LA"
 2016,35380,"New Orleans, Metairie - LA"
+2017,35380,New Orleans-Metairie - LA
 2014,35614,"New York, Jersey City, White Plains - NY, NJ"
 2015,35614,"New York, Jersey City, White Plains - NY, NJ"
 2016,35614,"New York, Jersey City, White Plains - NY, NJ"
+2017,35620,"New York-Newark-Jersey City - NY, NJ, PA"
 2007,35644,"New York, White Plains, Wayne - NY, NJ"
 2008,35644,"New York, White Plains, Wayne - NY, NJ"
 2009,35644,"New York, White Plains, Wayne - NY, NJ"
@@ -2558,6 +2812,7 @@ year,code,name
 2014,35660,"Niles, Benton Harbor - MI"
 2015,35660,"Niles, Benton Harbor - MI"
 2016,35660,"Niles, Benton Harbor - MI"
+2017,35660,Niles-Benton Harbor - MI
 2010,35840,"North Port, Bradenton, Sarasota - FL"
 2011,35840,"North Port, Bradenton, Sarasota - FL"
 2012,35840,"North Port, Bradenton, Sarasota - FL"
@@ -2565,6 +2820,7 @@ year,code,name
 2014,35840,"North Port, Sarasota, Bradenton - FL"
 2015,35840,"North Port, Sarasota, Bradenton - FL"
 2016,35840,"North Port, Sarasota, Bradenton - FL"
+2017,35840,North Port-Sarasota-Bradenton - FL
 2007,35980,"Norwich, New London - CT"
 2008,35980,"Norwich, New London - CT"
 2009,35980,"Norwich, New London - CT"
@@ -2575,6 +2831,7 @@ year,code,name
 2014,35980,"Norwich, New London - CT"
 2015,35980,"Norwich, New London - CT"
 2016,35980,"Norwich, New London - CT"
+2017,35980,Norwich-New London - CT
 2007,36084,"Oakland, Fremont, Hayward - CA"
 2008,36084,"Oakland, Fremont, Hayward - CA"
 2009,36084,"Oakland, Fremont, Hayward - CA"
@@ -2595,6 +2852,7 @@ year,code,name
 2014,36100,Ocala - FL
 2015,36100,Ocala - FL
 2016,36100,Ocala - FL
+2017,36100,Ocala - FL
 2007,36140,Ocean City - NJ
 2008,36140,Ocean City - NJ
 2009,36140,Ocean City - NJ
@@ -2605,6 +2863,7 @@ year,code,name
 2014,36140,Ocean City - NJ
 2015,36140,Ocean City - NJ
 2016,36140,Ocean City - NJ
+2017,36140,Ocean City - NJ
 2007,36220,Odessa - TX
 2008,36220,Odessa - TX
 2009,36220,Odessa - TX
@@ -2615,6 +2874,7 @@ year,code,name
 2014,36220,Odessa - TX
 2015,36220,Odessa - TX
 2016,36220,Odessa - TX
+2017,36220,Odessa - TX
 2007,36260,"Ogden, Clearfield - UT"
 2008,36260,"Ogden, Clearfield - UT"
 2009,36260,"Ogden, Clearfield - UT"
@@ -2625,6 +2885,7 @@ year,code,name
 2014,36260,"Ogden, Clearfield - UT"
 2015,36260,"Ogden, Clearfield - UT"
 2016,36260,"Ogden, Clearfield - UT"
+2017,36260,Ogden-Clearfield - UT
 2007,36420,Oklahoma City - OK
 2008,36420,Oklahoma City - OK
 2009,36420,Oklahoma City - OK
@@ -2635,6 +2896,7 @@ year,code,name
 2014,36420,Oklahoma City - OK
 2015,36420,Oklahoma City - OK
 2016,36420,Oklahoma City - OK
+2017,36420,Oklahoma City - OK
 2007,36500,Olympia - WA
 2008,36500,Olympia - WA
 2009,36500,Olympia - WA
@@ -2645,6 +2907,7 @@ year,code,name
 2014,36500,"Olympia, Tumwater - WA"
 2015,36500,"Olympia, Tumwater - WA"
 2016,36500,"Olympia, Tumwater - WA"
+2017,36500,Olympia-Tumwater - WA
 2007,36540,"Omaha, Council Bluffs - NE, IA"
 2008,36540,"Omaha, Council Bluffs - NE, IA"
 2009,36540,"Omaha, Council Bluffs - NE, IA"
@@ -2655,6 +2918,7 @@ year,code,name
 2014,36540,"Omaha, Council Bluffs - NE, IA"
 2015,36540,"Omaha, Council Bluffs - NE, IA"
 2016,36540,"Omaha, Council Bluffs - NE, IA"
+2017,36540,"Omaha-Council Bluffs - NE, IA"
 2007,36740,"Orlando, Kissimmee - FL"
 2008,36740,"Orlando, Kissimmee - FL"
 2009,36740,"Orlando, Kissimmee - FL"
@@ -2665,6 +2929,7 @@ year,code,name
 2014,36740,"Orlando, Kissimmee, Sanford - FL"
 2015,36740,"Orlando, Kissimmee, Sanford - FL"
 2016,36740,"Orlando, Kissimmee, Sanford - FL"
+2017,36740,Orlando-Kissimmee-Sanford - FL
 2007,36780,"Oshkosh, Neenah - WI"
 2008,36780,"Oshkosh, Neenah - WI"
 2009,36780,"Oshkosh, Neenah - WI"
@@ -2675,6 +2940,7 @@ year,code,name
 2014,36780,"Oshkosh, Neenah - WI"
 2015,36780,"Oshkosh, Neenah - WI"
 2016,36780,"Oshkosh, Neenah - WI"
+2017,36780,Oshkosh-Neenah - WI
 2007,36980,Owensboro - KY
 2008,36980,Owensboro - KY
 2009,36980,Owensboro - KY
@@ -2685,6 +2951,7 @@ year,code,name
 2014,36980,Owensboro - KY
 2015,36980,Owensboro - KY
 2016,36980,Owensboro - KY
+2017,36980,Owensboro - KY
 2007,37100,"Oxnard, Thousand Oaks, Ventura - CA"
 2008,37100,"Oxnard, Thousand Oaks, Ventura - CA"
 2009,37100,"Oxnard, Thousand Oaks, Ventura - CA"
@@ -2695,6 +2962,7 @@ year,code,name
 2014,37100,"Oxnard, Thousand Oaks, Ventura - CA"
 2015,37100,"Oxnard, Thousand Oaks, Ventura - CA"
 2016,37100,"Oxnard, Thousand Oaks, Ventura - CA"
+2017,37100,Oxnard-Thousand Oaks-Ventura - CA
 2007,37340,"Palm Bay, Melbourne, Titusville - FL"
 2008,37340,"Palm Bay, Melbourne, Titusville - FL"
 2009,37340,"Palm Bay, Melbourne, Titusville - FL"
@@ -2705,6 +2973,7 @@ year,code,name
 2014,37340,"Palm Bay, Melbourne, Titusville - FL"
 2015,37340,"Palm Bay, Melbourne, Titusville - FL"
 2016,37340,"Palm Bay, Melbourne, Titusville - FL"
+2017,37340,Palm Bay-Melbourne-Titusville - FL
 2007,37380,Palm Coast - FL
 2008,37380,Palm Coast - FL
 2009,37380,Palm Coast - FL
@@ -2722,6 +2991,7 @@ year,code,name
 2014,37460,Panama City - FL
 2015,37460,Panama City - FL
 2016,37460,Panama City - FL
+2017,37460,Panama City - FL
 2007,37620,"Parkersburg, Marietta, Vienna - WV, OH"
 2008,37620,"Parkersburg, Marietta, Vienna - WV, OH"
 2009,37620,"Parkersburg, Marietta, Vienna - WV, OH"
@@ -2732,6 +3002,7 @@ year,code,name
 2014,37620,"Parkersburg, Vienna - WV"
 2015,37620,"Parkersburg, Vienna - WV"
 2016,37620,"Parkersburg, Vienna - WV"
+2017,37620,Parkersburg-Vienna - WV
 2007,37700,Pascagoula - MS
 2008,37700,Pascagoula - MS
 2009,37700,Pascagoula - MS
@@ -2756,6 +3027,7 @@ year,code,name
 2014,37860,"Pensacola, Ferry Pass, Brent - FL"
 2015,37860,"Pensacola, Ferry Pass, Brent - FL"
 2016,37860,"Pensacola, Ferry Pass, Brent - FL"
+2017,37860,Pensacola-Ferry Pass-Brent - FL
 2007,37900,Peoria - IL
 2008,37900,Peoria - IL
 2009,37900,Peoria - IL
@@ -2766,6 +3038,7 @@ year,code,name
 2014,37900,Peoria - IL
 2015,37900,Peoria - IL
 2016,37900,Peoria - IL
+2017,37900,Peoria - IL
 2007,37964,Philadelphia - PA
 2008,37964,Philadelphia - PA
 2009,37964,Philadelphia - PA
@@ -2776,6 +3049,7 @@ year,code,name
 2014,37964,Philadelphia - PA
 2015,37964,Philadelphia - PA
 2016,37964,Philadelphia - PA
+2017,37980,"Philadelphia-Camden-Wilmington - PA, NJ, DE, MD"
 2007,38060,"Phoenix, Mesa, Scottsdale - AZ"
 2008,38060,"Phoenix, Mesa, Scottsdale - AZ"
 2009,38060,"Phoenix, Mesa, Scottsdale - AZ"
@@ -2786,6 +3060,7 @@ year,code,name
 2014,38060,"Phoenix, Mesa, Scottsdale - AZ"
 2015,38060,"Phoenix, Mesa, Scottsdale - AZ"
 2016,38060,"Phoenix, Mesa, Scottsdale - AZ"
+2017,38060,Phoenix-Mesa-Scottsdale - AZ
 2007,38220,Pine Bluff - AR
 2008,38220,Pine Bluff - AR
 2009,38220,Pine Bluff - AR
@@ -2796,6 +3071,7 @@ year,code,name
 2014,38220,Pine Bluff - AR
 2015,38220,Pine Bluff - AR
 2016,38220,Pine Bluff - AR
+2017,38220,Pine Bluff - AR
 2007,38300,Pittsburgh - PA
 2008,38300,Pittsburgh - PA
 2009,38300,Pittsburgh - PA
@@ -2806,6 +3082,7 @@ year,code,name
 2014,38300,Pittsburgh - PA
 2015,38300,Pittsburgh - PA
 2016,38300,Pittsburgh - PA
+2017,38300,Pittsburgh - PA
 2007,38340,Pittsfield - MA
 2008,38340,Pittsfield - MA
 2009,38340,Pittsfield - MA
@@ -2816,6 +3093,7 @@ year,code,name
 2014,38340,Pittsfield - MA
 2015,38340,Pittsfield - MA
 2016,38340,Pittsfield - MA
+2017,38340,Pittsfield - MA
 2007,38540,Pocatello - ID
 2008,38540,Pocatello - ID
 2009,38540,Pocatello - ID
@@ -2826,6 +3104,7 @@ year,code,name
 2014,38540,Pocatello - ID
 2015,38540,Pocatello - ID
 2016,38540,Pocatello - ID
+2017,38540,Pocatello - ID
 2007,38660,Ponce - PR
 2008,38660,Ponce - PR
 2009,38660,Ponce - PR
@@ -2836,6 +3115,7 @@ year,code,name
 2014,38660,Ponce - PR
 2015,38660,Ponce - PR
 2016,38660,Ponce - PR
+2017,38660,Ponce - PR
 2007,38860,"Portland, South Portland, Biddeford - ME"
 2008,38860,"Portland, South Portland, Biddeford - ME"
 2009,38860,"Portland, South Portland, Biddeford - ME"
@@ -2846,6 +3126,7 @@ year,code,name
 2014,38860,"Portland, South Portland - ME"
 2015,38860,"Portland, South Portland - ME"
 2016,38860,"Portland, South Portland - ME"
+2017,38860,Portland-South Portland - ME
 2007,38900,"Portland, Vancouver, Beaverton - OR, WA"
 2008,38900,"Portland, Vancouver, Beaverton - OR, WA"
 2009,38900,"Portland, Vancouver, Beaverton - OR, WA"
@@ -2856,6 +3137,7 @@ year,code,name
 2014,38900,"Portland, Vancouver, Hillsboro - OR, WA"
 2015,38900,"Portland, Vancouver, Hillsboro - OR, WA"
 2016,38900,"Portland, Vancouver, Hillsboro - OR, WA"
+2017,38900,"Portland-Vancouver-Hillsboro - OR, WA"
 2007,38940,Port St. Lucie - FL
 2008,38940,Port St. Lucie - FL
 2009,38940,Port St. Lucie - FL
@@ -2866,6 +3148,7 @@ year,code,name
 2014,38940,Port St. Lucie - FL
 2015,38940,Port St. Lucie - FL
 2016,38940,Port St. Lucie - FL
+2017,38940,Port St. Lucie - FL
 2007,39100,"Poughkeepsie, Newburgh, Middletown - NY"
 2008,39100,"Poughkeepsie, Newburgh, Middletown - NY"
 2009,39100,"Poughkeepsie, Newburgh, Middletown - NY"
@@ -2883,6 +3166,7 @@ year,code,name
 2014,39140,Prescott - AZ
 2015,39140,Prescott - AZ
 2016,39140,Prescott - AZ
+2017,39140,Prescott - AZ
 2007,39300,"Providence, New Bedford, Fall River - RI, MA"
 2008,39300,"Providence, New Bedford, Fall River - RI, MA"
 2009,39300,"Providence, New Bedford, Fall River - RI, MA"
@@ -2893,6 +3177,7 @@ year,code,name
 2014,39300,"Providence, Warwick - RI, MA"
 2015,39300,"Providence, Warwick - RI, MA"
 2016,39300,"Providence, Warwick - RI, MA"
+2017,39300,"Providence-Warwick - RI, MA"
 2007,39340,"Provo, Orem - UT"
 2008,39340,"Provo, Orem - UT"
 2009,39340,"Provo, Orem - UT"
@@ -2903,6 +3188,7 @@ year,code,name
 2014,39340,"Provo, Orem - UT"
 2015,39340,"Provo, Orem - UT"
 2016,39340,"Provo, Orem - UT"
+2017,39340,Provo-Orem - UT
 2007,39380,Pueblo - CO
 2008,39380,Pueblo - CO
 2009,39380,Pueblo - CO
@@ -2913,6 +3199,7 @@ year,code,name
 2014,39380,Pueblo - CO
 2015,39380,Pueblo - CO
 2016,39380,Pueblo - CO
+2017,39380,Pueblo - CO
 2007,39460,Punta Gorda - FL
 2008,39460,Punta Gorda - FL
 2009,39460,Punta Gorda - FL
@@ -2923,6 +3210,7 @@ year,code,name
 2014,39460,Punta Gorda - FL
 2015,39460,Punta Gorda - FL
 2016,39460,Punta Gorda - FL
+2017,39460,Punta Gorda - FL
 2007,39540,Racine - WI
 2008,39540,Racine - WI
 2009,39540,Racine - WI
@@ -2933,6 +3221,7 @@ year,code,name
 2014,39540,Racine - WI
 2015,39540,Racine - WI
 2016,39540,Racine - WI
+2017,39540,Racine - WI
 2007,39580,"Raleigh, Cary - NC"
 2008,39580,"Raleigh, Cary - NC"
 2009,39580,"Raleigh, Cary - NC"
@@ -2943,6 +3232,7 @@ year,code,name
 2014,39580,Raleigh - NC
 2015,39580,Raleigh - NC
 2016,39580,Raleigh - NC
+2017,39580,Raleigh - NC
 2007,39660,Rapid City - SD
 2008,39660,Rapid City - SD
 2009,39660,Rapid City - SD
@@ -2953,6 +3243,7 @@ year,code,name
 2014,39660,Rapid City - SD
 2015,39660,Rapid City - SD
 2016,39660,Rapid City - SD
+2017,39660,Rapid City - SD
 2007,39740,Reading - PA
 2008,39740,Reading - PA
 2009,39740,Reading - PA
@@ -2963,6 +3254,7 @@ year,code,name
 2014,39740,Reading - PA
 2015,39740,Reading - PA
 2016,39740,Reading - PA
+2017,39740,Reading - PA
 2007,39820,Redding - CA
 2008,39820,Redding - CA
 2009,39820,Redding - CA
@@ -2973,6 +3265,7 @@ year,code,name
 2014,39820,Redding - CA
 2015,39820,Redding - CA
 2016,39820,Redding - CA
+2017,39820,Redding - CA
 2007,39900,"Reno, Sparks - NV"
 2008,39900,"Reno, Sparks - NV"
 2009,39900,"Reno, Sparks - NV"
@@ -2983,6 +3276,7 @@ year,code,name
 2014,39900,Reno - NV
 2015,39900,Reno - NV
 2016,39900,Reno - NV
+2017,39900,Reno - NV
 2007,40060,Richmond - VA
 2008,40060,Richmond - VA
 2009,40060,Richmond - VA
@@ -2993,6 +3287,7 @@ year,code,name
 2014,40060,Richmond - VA
 2015,40060,Richmond - VA
 2016,40060,Richmond - VA
+2017,40060,Richmond - VA
 2007,40140,"Riverside, San Bernardino, Ontario - CA"
 2008,40140,"Riverside, San Bernardino, Ontario - CA"
 2009,40140,"Riverside, San Bernardino, Ontario - CA"
@@ -3003,6 +3298,7 @@ year,code,name
 2014,40140,"Riverside, San Bernardino, Ontario - CA"
 2015,40140,"Riverside, San Bernardino, Ontario - CA"
 2016,40140,"Riverside, San Bernardino, Ontario - CA"
+2017,40140,Riverside-San Bernardino-Ontario - CA
 2007,40220,Roanoke - VA
 2008,40220,Roanoke - VA
 2009,40220,Roanoke - VA
@@ -3013,6 +3309,7 @@ year,code,name
 2014,40220,Roanoke - VA
 2015,40220,Roanoke - VA
 2016,40220,Roanoke - VA
+2017,40220,Roanoke - VA
 2007,40340,Rochester - MN
 2008,40340,Rochester - MN
 2009,40340,Rochester - MN
@@ -3023,6 +3320,7 @@ year,code,name
 2014,40340,Rochester - MN
 2015,40340,Rochester - MN
 2016,40340,Rochester - MN
+2017,40340,Rochester - MN
 2007,40380,Rochester - NY
 2008,40380,Rochester - NY
 2009,40380,Rochester - NY
@@ -3033,6 +3331,7 @@ year,code,name
 2014,40380,Rochester - NY
 2015,40380,Rochester - NY
 2016,40380,Rochester - NY
+2017,40380,Rochester - NY
 2007,40420,Rockford - IL
 2008,40420,Rockford - IL
 2009,40420,Rockford - IL
@@ -3043,6 +3342,7 @@ year,code,name
 2014,40420,Rockford - IL
 2015,40420,Rockford - IL
 2016,40420,Rockford - IL
+2017,40420,Rockford - IL
 2007,40484,"Rockingham County, Strafford County - NH"
 2008,40484,"Rockingham County, Strafford County - NH"
 2009,40484,"Rockingham County, Strafford County - NH"
@@ -3063,6 +3363,7 @@ year,code,name
 2014,40580,Rocky Mount - NC
 2015,40580,Rocky Mount - NC
 2016,40580,Rocky Mount - NC
+2017,40580,Rocky Mount - NC
 2007,40660,Rome - GA
 2008,40660,Rome - GA
 2009,40660,Rome - GA
@@ -3073,6 +3374,7 @@ year,code,name
 2014,40660,Rome - GA
 2015,40660,Rome - GA
 2016,40660,Rome - GA
+2017,40660,Rome - GA
 2007,40900,"Sacramento, Arden-Arcade, Roseville - CA"
 2008,40900,"Sacramento, Arden-Arcade, Roseville - CA"
 2009,40900,"Sacramento, Arden-Arcade, Roseville - CA"
@@ -3083,6 +3385,7 @@ year,code,name
 2014,40900,"Sacramento, Roseville, Arden-Arcade - CA"
 2015,40900,"Sacramento, Roseville, Arden-Arcade - CA"
 2016,40900,"Sacramento, Roseville, Arden-Arcade - CA"
+2017,40900,Sacramento--Roseville--Arden-Arcade - CA
 2007,40980,"Saginaw, Saginaw Township North - MI"
 2008,40980,"Saginaw, Saginaw Township North - MI"
 2009,40980,"Saginaw, Saginaw Township North - MI"
@@ -3093,6 +3396,7 @@ year,code,name
 2014,40980,Saginaw - MI
 2015,40980,Saginaw - MI
 2016,40980,Saginaw - MI
+2017,40980,Saginaw - MI
 2007,41060,St. Cloud - MN
 2008,41060,St. Cloud - MN
 2009,41060,St. Cloud - MN
@@ -3103,6 +3407,7 @@ year,code,name
 2014,41060,St. Cloud - MN
 2015,41060,St. Cloud - MN
 2016,41060,St. Cloud - MN
+2017,41060,St. Cloud - MN
 2007,41100,St. George - UT
 2008,41100,St. George - UT
 2009,41100,St. George - UT
@@ -3113,6 +3418,7 @@ year,code,name
 2014,41100,St. George - UT
 2015,41100,St. George - UT
 2016,41100,St. George - UT
+2017,41100,St. George - UT
 2007,41140,"St. Joseph - MO, KS"
 2008,41140,"St. Joseph - MO, KS"
 2009,41140,"St. Joseph - MO, KS"
@@ -3123,6 +3429,7 @@ year,code,name
 2014,41140,"St. Joseph - MO, KS"
 2015,41140,"St. Joseph - MO, KS"
 2016,41140,"St. Joseph - MO, KS"
+2017,41140,"St. Joseph - MO, KS"
 2007,41180,"St. Louis - MO, IL"
 2008,41180,"St. Louis - MO, IL"
 2009,41180,"St. Louis - MO, IL"
@@ -3133,6 +3440,7 @@ year,code,name
 2014,41180,"St. Louis - MO, IL"
 2015,41180,"St. Louis - MO, IL"
 2016,41180,"St. Louis - MO, IL"
+2017,41180,"St. Louis - MO, IL"
 2007,41420,Salem - OR
 2008,41420,Salem - OR
 2009,41420,Salem - OR
@@ -3143,6 +3451,7 @@ year,code,name
 2014,41420,Salem - OR
 2015,41420,Salem - OR
 2016,41420,Salem - OR
+2017,41420,Salem - OR
 2007,41500,Salinas - CA
 2008,41500,Salinas - CA
 2009,41500,Salinas - CA
@@ -3153,6 +3462,7 @@ year,code,name
 2014,41500,Salinas - CA
 2015,41500,Salinas - CA
 2016,41500,Salinas - CA
+2017,41500,Salinas - CA
 2007,41540,Salisbury - MD
 2008,41540,Salisbury - MD
 2009,41540,Salisbury - MD
@@ -3163,6 +3473,7 @@ year,code,name
 2014,41540,"Salisbury - MD, DE"
 2015,41540,"Salisbury - MD, DE"
 2016,41540,"Salisbury - MD, DE"
+2017,41540,"Salisbury - MD, DE"
 2007,41620,Salt Lake City - UT
 2008,41620,Salt Lake City - UT
 2009,41620,Salt Lake City - UT
@@ -3173,6 +3484,7 @@ year,code,name
 2014,41620,Salt Lake City - UT
 2015,41620,Salt Lake City - UT
 2016,41620,Salt Lake City - UT
+2017,41620,Salt Lake City - UT
 2007,41660,San Angelo - TX
 2008,41660,San Angelo - TX
 2009,41660,San Angelo - TX
@@ -3183,6 +3495,7 @@ year,code,name
 2014,41660,San Angelo - TX
 2015,41660,San Angelo - TX
 2016,41660,San Angelo - TX
+2017,41660,San Angelo - TX
 2007,41700,San Antonio - TX
 2008,41700,San Antonio - TX
 2009,41700,San Antonio - TX
@@ -3193,6 +3506,7 @@ year,code,name
 2014,41700,"San Antonio, New Braunfels - TX"
 2015,41700,"San Antonio, New Braunfels - TX"
 2016,41700,"San Antonio, New Braunfels - TX"
+2017,41700,San Antonio-New Braunfels - TX
 2007,41740,"San Diego, Carlsbad, San Marcos - CA"
 2008,41740,"San Diego, Carlsbad, San Marcos - CA"
 2009,41740,"San Diego, Carlsbad, San Marcos - CA"
@@ -3203,6 +3517,7 @@ year,code,name
 2014,41740,"San Diego, Carlsbad - CA"
 2015,41740,"San Diego, Carlsbad - CA"
 2016,41740,"San Diego, Carlsbad - CA"
+2017,41740,San Diego-Carlsbad - CA
 2007,41780,Sandusky - OH
 2008,41780,Sandusky - OH
 2009,41780,Sandusky - OH
@@ -3210,6 +3525,7 @@ year,code,name
 2011,41780,Sandusky - OH
 2012,41780,Sandusky - OH
 2013,41780,Sandusky - OH
+2017,41860,San Francisco-Oakland-Hayward - CA
 2007,41884,"San Francisco, San Mateo, Redwood City - CA"
 2008,41884,"San Francisco, San Mateo, Redwood City - CA"
 2009,41884,"San Francisco, San Mateo, Redwood City - CA"
@@ -3230,6 +3546,7 @@ year,code,name
 2014,41900,San German - PR
 2015,41900,San German - PR
 2016,41900,San German - PR
+2017,41900,San Germàn - PR
 2007,41940,"San Jose, Sunnyvale, Santa Clara - CA"
 2008,41940,"San Jose, Sunnyvale, Santa Clara - CA"
 2009,41940,"San Jose, Sunnyvale, Santa Clara - CA"
@@ -3240,6 +3557,7 @@ year,code,name
 2014,41940,"San Jose, Sunnyvale, Santa Clara - CA"
 2015,41940,"San Jose, Sunnyvale, Santa Clara - CA"
 2016,41940,"San Jose, Sunnyvale, Santa Clara - CA"
+2017,41940,San Jose-Sunnyvale-Santa Clara - CA
 2007,41980,"San Juan, Caguas, Guaynabo - PR"
 2008,41980,"San Juan, Caguas, Guaynabo - PR"
 2009,41980,"San Juan, Caguas, Guaynabo - PR"
@@ -3250,6 +3568,7 @@ year,code,name
 2014,41980,"San Juan, Carolina, Caguas - PR"
 2015,41980,"San Juan, Carolina, Caguas - PR"
 2016,41980,"San Juan, Carolina, Caguas - PR"
+2017,41980,San Juan-Carolina-Caguas - PR
 2007,42020,"San Luis Obispo, Paso Robles - CA"
 2008,42020,"San Luis Obispo, Paso Robles - CA"
 2009,42020,"San Luis Obispo, Paso Robles - CA"
@@ -3260,6 +3579,7 @@ year,code,name
 2014,42020,"San Luis Obispo, Paso Robles, Arroyo Grande - CA"
 2015,42020,"San Luis Obispo, Paso Robles, Arroyo Grande - CA"
 2016,42020,"San Luis Obispo, Paso Robles, Arroyo Grande - CA"
+2017,42020,San Luis Obispo-Paso Robles-Arroyo Grande - CA
 2014,42034,San Rafael - CA
 2015,42034,San Rafael - CA
 2016,42034,San Rafael - CA
@@ -3287,6 +3607,7 @@ year,code,name
 2014,42100,"Santa Cruz, Watsonville - CA"
 2015,42100,"Santa Cruz, Watsonville - CA"
 2016,42100,"Santa Cruz, Watsonville - CA"
+2017,42100,Santa Cruz-Watsonville - CA
 2007,42140,Santa Fe - NM
 2008,42140,Santa Fe - NM
 2009,42140,Santa Fe - NM
@@ -3297,9 +3618,11 @@ year,code,name
 2014,42140,Santa Fe - NM
 2015,42140,Santa Fe - NM
 2016,42140,Santa Fe - NM
+2017,42140,Santa Fe - NM
 2014,42200,"Santa Maria, Santa Barbara - CA"
 2015,42200,"Santa Maria, Santa Barbara - CA"
 2016,42200,"Santa Maria, Santa Barbara - CA"
+2017,42200,Santa Maria-Santa Barbara - CA
 2007,42220,"Santa Rosa, Petaluma - CA"
 2008,42220,"Santa Rosa, Petaluma - CA"
 2009,42220,"Santa Rosa, Petaluma - CA"
@@ -3310,6 +3633,7 @@ year,code,name
 2014,42220,Santa Rosa - CA
 2015,42220,Santa Rosa - CA
 2016,42220,Santa Rosa - CA
+2017,42220,Santa Rosa - CA
 2007,42260,"Sarasota, Bradenton, Venice - FL"
 2007,42340,Savannah - GA
 2008,42340,Savannah - GA
@@ -3321,6 +3645,7 @@ year,code,name
 2014,42340,Savannah - GA
 2015,42340,Savannah - GA
 2016,42340,Savannah - GA
+2017,42340,Savannah - GA
 2007,42540,"Scranton, Wilkes-Barre - PA"
 2008,42540,"Scranton, Wilkes-Barre - PA"
 2009,42540,"Scranton, Wilkes-Barre - PA"
@@ -3331,6 +3656,7 @@ year,code,name
 2014,42540,"Scranton, Wilkes-Barre, Hazleton - PA"
 2015,42540,"Scranton, Wilkes-Barre, Hazleton - PA"
 2016,42540,"Scranton, Wilkes-Barre, Hazleton - PA"
+2017,42540,Scranton--Wilkes-Barre--Hazleton - PA
 2007,42644,"Seattle, Bellevue, Everett - WA"
 2008,42644,"Seattle, Bellevue, Everett - WA"
 2009,42644,"Seattle, Bellevue, Everett - WA"
@@ -3341,6 +3667,7 @@ year,code,name
 2014,42644,"Seattle, Bellevue, Everett - WA"
 2015,42644,"Seattle, Bellevue, Everett - WA"
 2016,42644,"Seattle, Bellevue, Everett - WA"
+2017,42660,Seattle-Tacoma-Bellevue - WA
 2007,42680,"Sebastian, Vero Beach - FL"
 2008,42680,"Sebastian, Vero Beach - FL"
 2009,42680,"Sebastian, Vero Beach - FL"
@@ -3351,9 +3678,11 @@ year,code,name
 2014,42680,"Sebastian, Vero Beach - FL"
 2015,42680,"Sebastian, Vero Beach - FL"
 2016,42680,"Sebastian, Vero Beach - FL"
+2017,42680,Sebastian-Vero Beach - FL
 2014,42700,Sebring - FL
 2015,42700,Sebring - FL
 2016,42700,Sebring - FL
+2017,42700,Sebring - FL
 2007,43100,Sheboygan - WI
 2008,43100,Sheboygan - WI
 2009,43100,Sheboygan - WI
@@ -3364,6 +3693,7 @@ year,code,name
 2014,43100,Sheboygan - WI
 2015,43100,Sheboygan - WI
 2016,43100,Sheboygan - WI
+2017,43100,Sheboygan - WI
 2007,43300,"Sherman, Denison - TX"
 2008,43300,"Sherman, Denison - TX"
 2009,43300,"Sherman, Denison - TX"
@@ -3374,6 +3704,7 @@ year,code,name
 2014,43300,"Sherman, Denison - TX"
 2015,43300,"Sherman, Denison - TX"
 2016,43300,"Sherman, Denison - TX"
+2017,43300,Sherman-Denison - TX
 2007,43340,"Shreveport, Bossier City - LA"
 2008,43340,"Shreveport, Bossier City - LA"
 2009,43340,"Shreveport, Bossier City - LA"
@@ -3384,9 +3715,11 @@ year,code,name
 2014,43340,"Shreveport, Bossier City - LA"
 2015,43340,"Shreveport, Bossier City - LA"
 2016,43340,"Shreveport, Bossier City - LA"
+2017,43340,Shreveport-Bossier City - LA
 2014,43420,"Sierra Vista, Douglas - AZ"
 2015,43420,"Sierra Vista, Douglas - AZ"
 2016,43420,"Sierra Vista, Douglas - AZ"
+2017,43420,Sierra Vista-Douglas - AZ
 2014,43524,"Silver Spring, Frederick, Rockville - MD"
 2015,43524,"Silver Spring, Frederick, Rockville - MD"
 2016,43524,"Silver Spring, Frederick, Rockville - MD"
@@ -3400,6 +3733,7 @@ year,code,name
 2014,43580,"Sioux City - IA, NE, SD"
 2015,43580,"Sioux City - IA, NE, SD"
 2016,43580,"Sioux City - IA, NE, SD"
+2017,43580,"Sioux City - IA, NE, SD"
 2007,43620,Sioux Falls - SD
 2008,43620,Sioux Falls - SD
 2009,43620,Sioux Falls - SD
@@ -3410,6 +3744,7 @@ year,code,name
 2014,43620,Sioux Falls - SD
 2015,43620,Sioux Falls - SD
 2016,43620,Sioux Falls - SD
+2017,43620,Sioux Falls - SD
 2007,43780,"South Bend, Mishawaka - IN, MI"
 2008,43780,"South Bend, Mishawaka - IN, MI"
 2009,43780,"South Bend, Mishawaka - IN, MI"
@@ -3420,6 +3755,7 @@ year,code,name
 2014,43780,"South Bend, Mishawaka - IN, MI"
 2015,43780,"South Bend, Mishawaka - IN, MI"
 2016,43780,"South Bend, Mishawaka - IN, MI"
+2017,43780,"South Bend-Mishawaka - IN, MI"
 2007,43900,Spartanburg - SC
 2008,43900,Spartanburg - SC
 2009,43900,Spartanburg - SC
@@ -3430,6 +3766,7 @@ year,code,name
 2014,43900,Spartanburg - SC
 2015,43900,Spartanburg - SC
 2016,43900,Spartanburg - SC
+2017,43900,Spartanburg - SC
 2007,44060,Spokane - WA
 2008,44060,Spokane - WA
 2009,44060,Spokane - WA
@@ -3440,6 +3777,7 @@ year,code,name
 2014,44060,"Spokane, Spokane Valley - WA"
 2015,44060,"Spokane, Spokane Valley - WA"
 2016,44060,"Spokane, Spokane Valley - WA"
+2017,44060,Spokane-Spokane Valley - WA
 2007,44100,Springfield - IL
 2008,44100,Springfield - IL
 2009,44100,Springfield - IL
@@ -3450,6 +3788,7 @@ year,code,name
 2014,44100,Springfield - IL
 2015,44100,Springfield - IL
 2016,44100,Springfield - IL
+2017,44100,Springfield - IL
 2007,44140,Springfield - MA
 2008,44140,Springfield - MA
 2009,44140,Springfield - MA
@@ -3460,6 +3799,7 @@ year,code,name
 2014,44140,Springfield - MA
 2015,44140,Springfield - MA
 2016,44140,Springfield - MA
+2017,44140,Springfield - MA
 2007,44180,Springfield - MO
 2008,44180,Springfield - MO
 2009,44180,Springfield - MO
@@ -3470,6 +3810,7 @@ year,code,name
 2014,44180,Springfield - MO
 2015,44180,Springfield - MO
 2016,44180,Springfield - MO
+2017,44180,Springfield - MO
 2007,44220,Springfield - OH
 2008,44220,Springfield - OH
 2009,44220,Springfield - OH
@@ -3480,6 +3821,7 @@ year,code,name
 2014,44220,Springfield - OH
 2015,44220,Springfield - OH
 2016,44220,Springfield - OH
+2017,44220,Springfield - OH
 2007,44300,State College - PA
 2008,44300,State College - PA
 2009,44300,State College - PA
@@ -3490,9 +3832,11 @@ year,code,name
 2014,44300,State College - PA
 2015,44300,State College - PA
 2016,44300,State College - PA
+2017,44300,State College - PA
 2014,44420,"Staunton, Waynesboro - VA"
 2015,44420,"Staunton, Waynesboro - VA"
 2016,44420,"Staunton, Waynesboro - VA"
+2017,44420,Staunton-Waynesboro - VA
 2010,44600,"Steubenville, Weirton - OH, WV"
 2011,44600,"Steubenville, Weirton - OH, WV"
 2012,44600,"Steubenville, Weirton - OH, WV"
@@ -3507,6 +3851,7 @@ year,code,name
 2014,44700,"Stockton, Lodi - CA"
 2015,44700,"Stockton, Lodi - CA"
 2016,44700,"Stockton, Lodi - CA"
+2017,44700,Stockton-Lodi - CA
 2007,44940,Sumter - SC
 2008,44940,Sumter - SC
 2009,44940,Sumter - SC
@@ -3517,6 +3862,7 @@ year,code,name
 2014,44940,Sumter - SC
 2015,44940,Sumter - SC
 2016,44940,Sumter - SC
+2017,44940,Sumter - SC
 2007,45060,Syracuse - NY
 2008,45060,Syracuse - NY
 2009,45060,Syracuse - NY
@@ -3527,6 +3873,7 @@ year,code,name
 2014,45060,Syracuse - NY
 2015,45060,Syracuse - NY
 2016,45060,Syracuse - NY
+2017,45060,Syracuse - NY
 2007,45104,Tacoma - WA
 2008,45104,Tacoma - WA
 2009,45104,Tacoma - WA
@@ -3547,6 +3894,7 @@ year,code,name
 2014,45220,Tallahassee - FL
 2015,45220,Tallahassee - FL
 2016,45220,Tallahassee - FL
+2017,45220,Tallahassee - FL
 2007,45300,"Tampa, St. Petersburg, Clearwater - FL"
 2008,45300,"Tampa, St. Petersburg, Clearwater - FL"
 2009,45300,"Tampa, St. Petersburg, Clearwater - FL"
@@ -3557,6 +3905,7 @@ year,code,name
 2014,45300,"Tampa, St. Petersburg, Clearwater - FL"
 2015,45300,"Tampa, St. Petersburg, Clearwater - FL"
 2016,45300,"Tampa, St. Petersburg, Clearwater - FL"
+2017,45300,Tampa-St. Petersburg-Clearwater - FL
 2007,45460,Terre Haute - IN
 2008,45460,Terre Haute - IN
 2009,45460,Terre Haute - IN
@@ -3567,6 +3916,7 @@ year,code,name
 2014,45460,Terre Haute - IN
 2015,45460,Terre Haute - IN
 2016,45460,Terre Haute - IN
+2017,45460,Terre Haute - IN
 2007,45500,"Texarkana, TX - Texarkana, AR"
 2008,45500,"Texarkana, TX - Texarkana, AR"
 2009,45500,"Texarkana, TX - Texarkana, AR"
@@ -3577,9 +3927,11 @@ year,code,name
 2014,45500,"Texarkana - TX, AR"
 2015,45500,"Texarkana - TX, AR"
 2016,45500,"Texarkana - TX, AR"
+2017,45500,"Texarkana - TX, AR"
 2014,45540,The Villages - FL
 2015,45540,The Villages - FL
 2016,45540,The Villages - FL
+2017,45540,The Villages - FL
 2007,45780,Toledo - OH
 2008,45780,Toledo - OH
 2009,45780,Toledo - OH
@@ -3590,6 +3942,7 @@ year,code,name
 2014,45780,Toledo - OH
 2015,45780,Toledo - OH
 2016,45780,Toledo - OH
+2017,45780,Toledo - OH
 2007,45820,Topeka - KS
 2008,45820,Topeka - KS
 2009,45820,Topeka - KS
@@ -3600,6 +3953,7 @@ year,code,name
 2014,45820,Topeka - KS
 2015,45820,Topeka - KS
 2016,45820,Topeka - KS
+2017,45820,Topeka - KS
 2007,45940,"Trenton, Ewing - NJ"
 2008,45940,"Trenton, Ewing - NJ"
 2009,45940,"Trenton, Ewing - NJ"
@@ -3610,6 +3964,7 @@ year,code,name
 2014,45940,Trenton - NJ
 2015,45940,Trenton - NJ
 2016,45940,Trenton - NJ
+2017,45940,Trenton - NJ
 2007,46060,Tucson - AZ
 2008,46060,Tucson - AZ
 2009,46060,Tucson - AZ
@@ -3620,6 +3975,7 @@ year,code,name
 2014,46060,Tucson - AZ
 2015,46060,Tucson - AZ
 2016,46060,Tucson - AZ
+2017,46060,Tucson - AZ
 2007,46140,Tulsa - OK
 2008,46140,Tulsa - OK
 2009,46140,Tulsa - OK
@@ -3630,6 +3986,7 @@ year,code,name
 2014,46140,Tulsa - OK
 2015,46140,Tulsa - OK
 2016,46140,Tulsa - OK
+2017,46140,Tulsa - OK
 2007,46220,Tuscaloosa - AL
 2008,46220,Tuscaloosa - AL
 2009,46220,Tuscaloosa - AL
@@ -3640,6 +3997,8 @@ year,code,name
 2014,46220,Tuscaloosa - AL
 2015,46220,Tuscaloosa - AL
 2016,46220,Tuscaloosa - AL
+2017,46220,Tuscaloosa - AL
+2017,46300,Twin Falls - ID
 2007,46340,Tyler - TX
 2008,46340,Tyler - TX
 2009,46340,Tyler - TX
@@ -3650,9 +4009,11 @@ year,code,name
 2014,46340,Tyler - TX
 2015,46340,Tyler - TX
 2016,46340,Tyler - TX
+2017,46340,Tyler - TX
 2014,46520,Urban Honolulu - HI
 2015,46520,Urban Honolulu - HI
 2016,46520,Urban Honolulu - HI
+2017,46520,Urban Honolulu - HI
 2007,46540,"Utica, Rome - NY"
 2008,46540,"Utica, Rome - NY"
 2009,46540,"Utica, Rome - NY"
@@ -3663,6 +4024,7 @@ year,code,name
 2014,46540,"Utica, Rome - NY"
 2015,46540,"Utica, Rome - NY"
 2016,46540,"Utica, Rome - NY"
+2017,46540,Utica-Rome - NY
 2007,46660,Valdosta - GA
 2008,46660,Valdosta - GA
 2009,46660,Valdosta - GA
@@ -3673,6 +4035,7 @@ year,code,name
 2014,46660,Valdosta - GA
 2015,46660,Valdosta - GA
 2016,46660,Valdosta - GA
+2017,46660,Valdosta - GA
 2007,46700,"Vallejo, Fairfield - CA"
 2008,46700,"Vallejo, Fairfield - CA"
 2009,46700,"Vallejo, Fairfield - CA"
@@ -3683,6 +4046,7 @@ year,code,name
 2014,46700,"Vallejo, Fairfield - CA"
 2015,46700,"Vallejo, Fairfield - CA"
 2016,46700,"Vallejo, Fairfield - CA"
+2017,46700,Vallejo-Fairfield - CA
 2007,47020,Victoria - TX
 2008,47020,Victoria - TX
 2009,47020,Victoria - TX
@@ -3693,6 +4057,7 @@ year,code,name
 2014,47020,Victoria - TX
 2015,47020,Victoria - TX
 2016,47020,Victoria - TX
+2017,47020,Victoria - TX
 2007,47220,"Vineland, Millville, Bridgeton - NJ"
 2008,47220,"Vineland, Millville, Bridgeton - NJ"
 2009,47220,"Vineland, Millville, Bridgeton - NJ"
@@ -3703,6 +4068,7 @@ year,code,name
 2014,47220,"Vineland, Bridgeton - NJ"
 2015,47220,"Vineland, Bridgeton - NJ"
 2016,47220,"Vineland, Bridgeton - NJ"
+2017,47220,Vineland-Bridgeton - NJ
 2007,47260,"Virginia Beach, Norfolk, Newport News - VA, NC"
 2008,47260,"Virginia Beach, Norfolk, Newport News - VA, NC"
 2009,47260,"Virginia Beach, Norfolk, Newport News - VA, NC"
@@ -3713,6 +4079,7 @@ year,code,name
 2014,47260,"Virginia Beach, Norfolk, Newport News - VA, NC"
 2015,47260,"Virginia Beach, Norfolk, Newport News - VA, NC"
 2016,47260,"Virginia Beach, Norfolk, Newport News - VA, NC"
+2017,47260,"Virginia Beach-Norfolk-Newport News - VA, NC"
 2007,47300,"Visalia, Porterville - CA"
 2008,47300,"Visalia, Porterville - CA"
 2009,47300,"Visalia, Porterville - CA"
@@ -3723,6 +4090,7 @@ year,code,name
 2014,47300,"Visalia, Porterville - CA"
 2015,47300,"Visalia, Porterville - CA"
 2016,47300,"Visalia, Porterville - CA"
+2017,47300,Visalia-Porterville - CA
 2007,47380,Waco - TX
 2008,47380,Waco - TX
 2009,47380,Waco - TX
@@ -3733,9 +4101,11 @@ year,code,name
 2014,47380,Waco - TX
 2015,47380,Waco - TX
 2016,47380,Waco - TX
+2017,47380,Waco - TX
 2014,47460,Walla Walla - WA
 2015,47460,Walla Walla - WA
 2016,47460,Walla Walla - WA
+2017,47460,Walla Walla - WA
 2007,47580,Warner Robins - GA
 2008,47580,Warner Robins - GA
 2009,47580,Warner Robins - GA
@@ -3746,6 +4116,7 @@ year,code,name
 2014,47580,Warner Robins - GA
 2015,47580,Warner Robins - GA
 2016,47580,Warner Robins - GA
+2017,47580,Warner Robins - GA
 2007,47644,"Warren, Troy, Farmington Hills - MI"
 2008,47644,"Warren, Troy, Farmington Hills - MI"
 2009,47644,"Warren, Troy, Farmington Hills - MI"
@@ -3766,6 +4137,7 @@ year,code,name
 2014,47894,"Washington, Arlington, Alexandria - DC, VA, MD, WV"
 2015,47894,"Washington, Arlington, Alexandria - DC, VA, MD, WV"
 2016,47894,"Washington, Arlington, Alexandria - DC, VA, MD, WV"
+2017,47900,"Washington-Arlington-Alexandria - DC, VA, MD, WV"
 2007,47940,"Waterloo, Cedar Falls - IA"
 2008,47940,"Waterloo, Cedar Falls - IA"
 2009,47940,"Waterloo, Cedar Falls - IA"
@@ -3776,9 +4148,11 @@ year,code,name
 2014,47940,"Waterloo, Cedar Falls - IA"
 2015,47940,"Waterloo, Cedar Falls - IA"
 2016,47940,"Waterloo, Cedar Falls - IA"
+2017,47940,Waterloo-Cedar Falls - IA
 2014,48060,"Watertown, Fort Drum - NY"
 2015,48060,"Watertown, Fort Drum - NY"
 2016,48060,"Watertown, Fort Drum - NY"
+2017,48060,Watertown-Fort Drum - NY
 2007,48140,Wausau - WI
 2008,48140,Wausau - WI
 2009,48140,Wausau - WI
@@ -3789,12 +4163,14 @@ year,code,name
 2014,48140,Wausau - WI
 2015,48140,Wausau - WI
 2016,48140,Wausau - WI
+2017,48140,Wausau - WI
 2007,48260,"Weirton, Steubenville - WV, OH"
 2008,48260,"Weirton, Steubenville - WV, OH"
 2009,48260,"Weirton, Steubenville - WV, OH"
 2014,48260,"Weirton, Steubenville - WV, OH"
 2015,48260,"Weirton, Steubenville - WV, OH"
 2016,48260,"Weirton, Steubenville - WV, OH"
+2017,48260,"Weirton-Steubenville - WV, OH"
 2007,48300,Wenatchee - WA
 2008,48300,Wenatchee - WA
 2009,48300,"Wenatchee, East Wenatchee - WA"
@@ -3805,6 +4181,7 @@ year,code,name
 2014,48300,Wenatchee - WA
 2015,48300,Wenatchee - WA
 2016,48300,Wenatchee - WA
+2017,48300,Wenatchee - WA
 2007,48424,"West Palm Beach, Boca Raton, Boynton Beach - FL"
 2008,48424,"West Palm Beach, Boca Raton, Boynton Beach - FL"
 2009,48424,"West Palm Beach, Boca Raton, Boynton Beach - FL"
@@ -3825,6 +4202,7 @@ year,code,name
 2014,48540,"Wheeling - WV, OH"
 2015,48540,"Wheeling - WV, OH"
 2016,48540,"Wheeling - WV, OH"
+2017,48540,"Wheeling - WV, OH"
 2007,48620,Wichita - KS
 2008,48620,Wichita - KS
 2009,48620,Wichita - KS
@@ -3835,6 +4213,7 @@ year,code,name
 2014,48620,Wichita - KS
 2015,48620,Wichita - KS
 2016,48620,Wichita - KS
+2017,48620,Wichita - KS
 2007,48660,Wichita Falls - TX
 2008,48660,Wichita Falls - TX
 2009,48660,Wichita Falls - TX
@@ -3845,6 +4224,7 @@ year,code,name
 2014,48660,Wichita Falls - TX
 2015,48660,Wichita Falls - TX
 2016,48660,Wichita Falls - TX
+2017,48660,Wichita Falls - TX
 2007,48700,Williamsport - PA
 2008,48700,Williamsport - PA
 2009,48700,Williamsport - PA
@@ -3855,6 +4235,7 @@ year,code,name
 2014,48700,Williamsport - PA
 2015,48700,Williamsport - PA
 2016,48700,Williamsport - PA
+2017,48700,Williamsport - PA
 2007,48864,"Wilmington - DE, MD, NJ"
 2008,48864,"Wilmington - DE, MD, NJ"
 2009,48864,"Wilmington - DE, MD, NJ"
@@ -3875,6 +4256,7 @@ year,code,name
 2014,48900,Wilmington - NC
 2015,48900,Wilmington - NC
 2016,48900,Wilmington - NC
+2017,48900,Wilmington - NC
 2007,49020,"Winchester - VA, WV"
 2008,49020,"Winchester - VA, WV"
 2009,49020,"Winchester - VA, WV"
@@ -3885,6 +4267,7 @@ year,code,name
 2014,49020,"Winchester - VA, WV"
 2015,49020,"Winchester - VA, WV"
 2016,49020,"Winchester - VA, WV"
+2017,49020,"Winchester - VA, WV"
 2007,49180,"Winston, Salem - NC"
 2008,49180,"Winston, Salem - NC"
 2009,49180,"Winston, Salem - NC"
@@ -3895,6 +4278,7 @@ year,code,name
 2014,49180,"Winston, Salem - NC"
 2015,49180,"Winston, Salem - NC"
 2016,49180,"Winston, Salem - NC"
+2017,49180,Winston-Salem - NC
 2007,49340,Worcester - MA
 2008,49340,Worcester - MA
 2009,49340,Worcester - MA
@@ -3905,6 +4289,7 @@ year,code,name
 2014,49340,"Worcester - MA, CT"
 2015,49340,"Worcester - MA, CT"
 2016,49340,"Worcester - MA, CT"
+2017,49340,"Worcester - MA, CT"
 2007,49420,Yakima - WA
 2008,49420,Yakima - WA
 2009,49420,Yakima - WA
@@ -3915,6 +4300,7 @@ year,code,name
 2014,49420,Yakima - WA
 2015,49420,Yakima - WA
 2016,49420,Yakima - WA
+2017,49420,Yakima - WA
 2007,49500,Yauco - PR
 2008,49500,Yauco - PR
 2009,49500,Yauco - PR
@@ -3932,6 +4318,7 @@ year,code,name
 2014,49620,"York, Hanover - PA"
 2015,49620,"York, Hanover - PA"
 2016,49620,"York, Hanover - PA"
+2017,49620,York-Hanover - PA
 2007,49660,"Youngstown, Warren, Boardman - OH, PA"
 2008,49660,"Youngstown, Warren, Boardman - OH, PA"
 2009,49660,"Youngstown, Warren, Boardman - OH, PA"
@@ -3942,6 +4329,7 @@ year,code,name
 2014,49660,"Youngstown, Warren, Boardman - OH, PA"
 2015,49660,"Youngstown, Warren, Boardman - OH, PA"
 2016,49660,"Youngstown, Warren, Boardman - OH, PA"
+2017,49660,"Youngstown-Warren-Boardman - OH, PA"
 2007,49700,Yuba City - CA
 2008,49700,Yuba City - CA
 2009,49700,Yuba City - CA
@@ -3952,6 +4340,7 @@ year,code,name
 2014,49700,Yuba City - CA
 2015,49700,Yuba City - CA
 2016,49700,Yuba City - CA
+2017,49700,Yuba City - CA
 2007,49740,Yuma - AZ
 2008,49740,Yuma - AZ
 2009,49740,Yuma - AZ
@@ -3962,6 +4351,7 @@ year,code,name
 2014,49740,Yuma - AZ
 2015,49740,Yuma - AZ
 2016,49740,Yuma - AZ
+2017,49740,Yuma - AZ
 2007,99999,NA (Outside of MSA/MD)
 2008,99999,NA (Outside of MSA/MD)
 2009,99999,NA (Outside of MSA/MD)
